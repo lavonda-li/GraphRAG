@@ -1,12 +1,15 @@
 import requests
 import base64
-from config import DATABRICKS_SERVER_HOSTNAME, DATABRICKS_ACCESS_TOKEN
+# from config import DATABRICKS_SERVER_HOSTNAME, DATABRICKS_ACCESS_TOKEN
 from rdflib import Graph, URIRef
 from urllib.parse import quote
 import os
 import urllib.parse
 from SPARQLWrapper import SPARQLWrapper, JSON
 import re
+
+DATABRICKS_SERVER_HOSTNAME = "none"
+DATABRICKS_ACCESS_TOKEN = "none"
 
 # Function to download RDF file from Databricks
 def download_rdf_file(workspace_file_path, local_file_path):

@@ -3,11 +3,14 @@ import uuid
 from rdflib import Graph
 import os
 from openai import OpenAI
-from config import WCD_URL, WCD_API_KEY, OPENAI_API_KEY
 from dotenv import load_dotenv
 import os
 
 load_dotenv()  # Load environment variables from .env
+# Access variables from .env
+wcd_url = os.getenv("WCD_URL")  # Weaviate Cloud Deployment URL
+wcd_api_key = os.getenv("WCD_API_KEY")  # Weaviate Cloud Deployment API key
+openai_api_key = os.getenv("OPENAI_API_KEY")  # OpenAI API key
 
 
 from query_functions.rdf_queries import (

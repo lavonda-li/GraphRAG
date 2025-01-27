@@ -1,15 +1,22 @@
 import weaviate
 from weaviate import Client as WeaviateClient
-from config import WCD_URL, WCD_API_KEY, OPENAI_API_KEY
 from weaviate.classes.init import Auth
 from weaviate.classes.query import MetadataQuery
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Load environment variables from .env
+# Access variables from .env
+wcd_url = os.getenv("WCD_URL")  # Weaviate Cloud Deployment URL
+wcd_api_key = os.getenv("WCD_API_KEY")  # Weaviate Cloud Deployment API key
+openai_api_key = os.getenv("OPENAI_API_KEY")  # OpenAI API key
 
 # Initialize Weaviate Client
 def initialize_weaviate_client():
     client = weaviate.connect_to_weaviate_cloud(
-        cluster_url=WCD_URL,
-        auth_credentials=Auth.api_key(WCD_API_KEY),
-        headers={'X-OpenAI-Api-key': OPENAI_API_KEY}
+        cluster_url=wcd_url,
+        auth_credentials=Auth.api_key(wcd_api_key),
+        headers={'X-OpenAI-Api-key': openai_api_key}
     )
     return client
 
