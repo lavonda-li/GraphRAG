@@ -23,7 +23,6 @@ client = OpenAI(api_key=api_key)
 # Initialize EasyOCR Reader
 reader = easyocr.Reader(["en"])  # Supports multiple languages
 
-
 # Function to extract text from a PDF file
 def extract_text_from_pdf(pdf_path):
     text = ""
@@ -36,7 +35,6 @@ def extract_text_from_pdf(pdf_path):
     except Exception as e:
         print(f"Error extracting text from {pdf_path}: {e}")
     return text
-
 
 # Function to extract tables from a PDF file
 def extract_tables_from_pdf(pdf_path):
@@ -51,7 +49,6 @@ def extract_tables_from_pdf(pdf_path):
     except Exception as e:
         print(f"Error extracting tables from {pdf_path}: {e}")
     return tables_data
-
 
 # Function to extract images from a PDF file
 def extract_images_from_pdf(pdf_path, output_dir="extracted_images"):
@@ -72,7 +69,6 @@ def extract_images_from_pdf(pdf_path, output_dir="extracted_images"):
         print(f"Error extracting images from {pdf_path}: {e}")
     return images
 
-
 # Function to perform OCR on images using EasyOCR
 def analyze_images_with_easyocr(images):
     image_descriptions = []
@@ -86,35 +82,38 @@ def analyze_images_with_easyocr(images):
             print(f"Error processing image {image_path}: {e}")
     return "\n".join(image_descriptions)
 
-
 # Function to process extracted content using OpenAI
-def process_pdf_with_openai(text, tables, image_descriptions):
-    prompt = f"""
-    Extract key insights from the given PDF content. Summarize the main topics, figures, tables, and any extracted text from images.
-
-    **Text Content:**
-    {text[:3000]}  # Limit characters to avoid exceeding token limits
-
-    **Table Data:**
-    {tables[:2]}  # Limit to 2 tables
-
-    **Text Extracted from Images (via EasyOCR):**
-    {image_descriptions}
-    """
+def process_pdf_with_openai(pdf_path):
+    prompt = "Extract key insights from the given PDF content. Summarize the main topics, tables, and any extracted text from images if present."
+    # Upload the user provided file to OpenAI
+    message_file = client.files.create(
+        file=open(pdf_path, "rb"), purpose="assistants"
+    )
 
     messages = [
-        {"role": "system", "content": "You are an AI trained to summarize and extract structured data from PDFs, including images with text."},
-        {"role": "user", "content": prompt}
+        {
+            "role": "system", 
+            "content": "You are an AI trained to summarize and extract structured data from PDFs, including tables with text if present."
+        },
+        {
+            "role": "user",
+            "content": prompt,
+            # Attach the new file to the message.
+            "attachments": [
+                { "file_id": message_file.id, "tools": [{"type": "file_search"}] }
+            ],
+        },
     ]
-
+    
     response = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4o-mini-2024-07-18",
         messages=messages,
         max_tokens=500
     )
 
-    return response.choices[0].message.content.strip()
+    print(f"OpenAI response: {response}")  # Debug print to check the response
 
+    return response.choices[0].message.content.strip()
 
 # Function to process all PDFs in a directory and save output to a CSV file
 def process_pdfs(input_directory, output_csv_file):
@@ -124,20 +123,10 @@ def process_pdfs(input_directory, output_csv_file):
     for pdf_file in pdf_files:
         pdf_path = os.path.join(input_directory, pdf_file)
         print(f"Processing {pdf_file}...")
-
-        text = extract_text_from_pdf(pdf_path)
-        tables = extract_tables_from_pdf(pdf_path)
-        images = extract_images_from_pdf(pdf_path)
-        image_descriptions = analyze_images_with_easyocr(images)
-
-        openai_summary = process_pdf_with_openai(text, tables, image_descriptions)
+        openai_summary = process_pdf_with_openai(pdf_path)
 
         extracted_data.append({
             "file_name": pdf_file,
-            "text": text[:1000],  # Truncate for CSV storage
-            "tables": json.dumps(tables[:2]),  # Store first two tables as JSON string
-            "images": ", ".join(images),  # Store image paths
-            "image_descriptions": image_descriptions[:1000],  # Truncate for CSV
             "summary": openai_summary
         })
 
@@ -149,6 +138,6 @@ def process_pdfs(input_directory, output_csv_file):
 # Main execution
 if __name__ == "__main__":
     input_directory = "data"  # Update to your actual directory
-    output_csv_file = "output.csv"
+    output_csv_file = "structured_extraction_output.csv"
 
     process_pdfs(input_directory, output_csv_file)
