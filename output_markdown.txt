@@ -1,0 +1,2301 @@
+# PROTOCOL: AORTA FOLLOW-UP
+
+# Inclusion Criteria
+
+- Adult echocardiogram ordered to assess aortic size
+- Full echocardiogram performed within two years
+
+# EIMS Data
+
+Procedure Components: 2-D, Color Flow Doppler, Doppler
+
+Serial Studies: General, Thoracic Aorta
+
+First Impression: Echocardiogram performed per aorta follow-up protocol.
+
+Billing Diagnosis: Aneurysm Thoracic Aortic without (or with) Rupture (HCC)
+
+Procedure: (TTE) 2D Limited and Color
+
+With quantification: 2D Limited with Color and Doppler
+
+|Obtain the following:|2D|CFI|Doppler|Measurement|
+|---|---|---|---|---|
+|Parasternal|LV EF & RWMA|*| |†LVOTd|
+| |AV (LAX/SAX)|AV (LAX/SAX)| |LVIDd/s|
+| |Asc. Aorta (+RPS)| | |Aorta: Sinus, ST Jx., Prox, Mid|
+|Apical|LV EF & RWMA| |*AV|LVOT tvi|
+| | | |LV Volumes (3D preferred)| |
+|Subcostal|Abd. Ao. (LAX & SAX)| | |Abd. Aorta|
+|Supra Sternal Notch|Arch| | |Arch|
+
+# Caveats and Tips
+
+- *If AR is ≥ moderate perform comprehensive aortic regurgitation assessment
+- † Measure LVOT diameter if the sinus has increased in size OR if previous have been inconsistent
+- If significant pathology is present on prior echo, perform additional imaging as warranted
+- Measurements should be made according to echo lab standardize measurement guidelines
+- Add thoracic aorta serial study if not previously done and be sure to add previous exams
+- Include statements representative of affected aorta
+- Discuss incidental findings with interpreting consultant
+
+A. Pearce, R.D.C.S. / C. Bonnichsen, M.D.
+
+Last reviewed: 9/19/2024
+
+---
+
+# PROTOCOL
+
+# HYPERTROPHIC CARDIOMYOPATHY
+
+# Inclusion Criteria
+
+• Any patient with referral of HCM/HOCM or suspected HCM/HOCM
+
+# EIMS Data
+
+Procedure Components: 2-D, Color Flow, Doppler +/- Strain Imaging, Amyl Nitrite, IV Contrast Agent
+
+Serial Study: General, HOCM
+
+Findings: Comment if obstructive/non-obstructive, thickest segment & measurement, septal contour
+
+AI: Select ‘Run HCM’ report
+
+Billing Diagnosis: Cardiomyopathy Hypertrophic; if no findings bill for symptoms, etc.
+
+# Procedure
+
+(TTE) 2D Echo Doppler Color +/- Contrast
+
+# Charge capture
+
++/- Myocardial Strain – Hospital
+
+# Obtain the following if the last echo was:
+
+≥ 2 years → full echo + following
+
+< 2 years → LV Function Protocol + following
+
+|2D|CFI|Doppler|Measurement| | | |
+|---|---|---|---|---|---|---|
+|Parasternal| |LV wall thickness (LAX, SAX)|MR jet direction (LAX)|CW - MR velocity|LV max wall thickness| |
+|Apical| |SAM|†LV obstruction|CW - MR velocity|LV max wall thickness| |
+| | |Apical HCM: look for pouch|MR jet direction (LAX)|*CW - LVOT MIG:|LV strain (see tips)| |
+|Apical w/ Valsalva, Squat to stand, and/or Amyl Nitrite (if < 50 mmHg)| |SAM|LV obstruction|CW - MR velocity| | |
+| | |MR|CW - LV Obstruction| | | |
+
+# Caveats and Tips
+
+• LV max wall thickness: any segment in any view. Contrast can improve endocardial border definition.
+
+• †CFI for LV Obstruction: use full length CFI box (LV apex to full LA) to assess LV obstruction & MR; consider color M-mode for obstruction assessment.
+
+• * LVOT MIG: If resting gradient is <50 mmHg proceed with Valsalva, if the Valsalva gradient is <50 mmHg proceed with squat-to-stand (S2S), if S2S is not possible or gradient is <50 mmHg, consider Amyl.
+
+• Apical HCM pouch: try off-axis views. Contrast is recommended.
+
+• Evaluate for aberrant muscle bundles or abnormal papillary muscles.
+
+• LV strain not required for Mayo confirmed HCM patients that had prior echo with strain. Do LV strain for:
+
+- ✓ HCM patient having first Mayo echo
+- ✓ Echo ordered for HCM screening or positive family history of HCM
+- ✓ Echo suggestive of HCM but not yet diagnosed
+- ✓ Echo suggests athletes heart vs. HCM
+
+L. Elvert / Drs. Geske, Newman, Ommen
+
+Last revised: 05/10/2024
+
+---
+
+# PROTOCOL: TRICUSPID REGURGITATION
+
+The focus of this document is to outline recommended additional echocardiographic image acquisition and analysis that is important in patients with significant tricuspid regurgitation to help determine patient prognosis and guide further patient management.
+
+# Inclusion Criteria
+
+- Moderately-severe or greater tricuspid regurgitation
+
+|2D|CFI|Doppler|Measurement|
+|---|---|---|---|
+|Parasternal (Same as comprehensive TTE)|Apical (Addition of 3D RV volume and 2D strain)| |RV - 3D volume and RVEF|
+|Full qualitative and quantitative TR assessment as indicated:|Full qualitative and quantitative TR assessment as indicated:|Full qualitative and quantitative TR assessment as indicated:| |
+|• Color flow jet area|• Vena contracta diameter|• CW Doppler TR velocity|• PISA assessment|
+|RV-focused 2D view for:|RV diameter - base, mid, length†|RV - area d/s†|RV – FW strain|
+|RA - monoplane Simpson’s|RV - TAPSE†| | |
+|Subcostal and RSC (Same as comprehensive TTE, including HV Doppler)| | | |
+
+† 2D measurements of the RV can be omitted if diagnostic 3D volumetric measurements are performed.
+
+# Caveats and Tips
+
+- Acquire an RV-focused view for dedicated 2D measurements
+- DO NOT use para-apical view for RV measurements (2D and strain)
+- Avoid foreshortening, consider dropping down an interspace and ask the patient to take a breath in
+- Optimizing visualization of the lateral RV wall is key for accurate 2D and 3D measurements
+- For 3D RV volumes:
+
+M. Martineau / J. Thaden Last revised: 3/16/2022
+
+---
+
+# PROTOCOL: PERICARDIOCENTESIS FOLLOW-UP
+
+# Inclusion Criteria
+
+Patient had a recent echo within the current clinical episode and
+
+The pericardial catheter is in place or is being assessed for removal
+
+Note: if returning for follow-up after removal perform the pericardial disease protocol
+
+# EIMS Data
+
+# Procedure Components:
+
+2-D Limited +/- Doppler, Respirometry, M-Mode, TDI
+
+# Billing Diagnosis:
+
+Variable (echo findings, patient symptoms, physical exam, etc.)
+
+# First Impression:
+
+Echocardiogram performed per status post pericardiocentesis protocol.
+
+# Billing:
+
+2-D Echo-Limited or 2-D Echo-Limited w Dop and/or Color
+
+# Obtain the following:
+
+|2D|Respirometry|
+|---|---|
+|Parasternal| |
+|LAX (one w/ increased depth)| |
+|SAX (all levels)|Assess septal variation: 2D, M-Mode|
+|10 beat clip(s) for septal shift| |
+|Apical| |
+|4ch (10 beat)|Assess septal variation|
+|LAX|MV inflow|
+|2ch|TDI of annulus|
+|*Apex LV & RV| |
+|Subcostal and RSC| |
+|4ch|HV|
+|SAX (all levels)|SVC|
+|IVC w/ sniff| |
+
+# Caveats and Tips
+
+Drain removal: Contact the centesis echo consultant for possible pericardial catheter removal (usually when drainage is &lt;50 ml net/24 hr or sooner if clinically indicated)
+
+Limitations: Windows typically limited post centesis due to bandaging (in these cases assessment is needed from two windows only)
+
+*RV apex: Assess for pockets of fluid
+
+Constriction: Present in up to 25% of post-pericardiocentesis patients. If returning after pericardial catheter removal (or if requested) perform pericardial disease protocol (including strain)
+
+V. Jones / Dr. Sinak
+
+Last revised: 1/18/2018
+
+---
+
+# PROTOCOL: PACEMAKER AV OPTIMIZATION
+
+# Inclusion Criteria
+
+- Complete study has been performed within the current clinical episode
+- Referral is pacemaker optimization
+- Patient has operational atrial lead and one or more ventricular leads
+- Pacemaker nurse is available (call 4-8600 or 4-8539)
+
+# EIMS Data
+
+Procedure Components: 2D-Limited, Doppler Limited (unless a complete study is also performed)
+
+Referral Diagnoses: Biventricular pacemaker A-V optimization
+
+Serial Study: None (unless complete study performed)
+
+First Impression: Echocardiogram performed during pacemaker optimization.
+
+# Findings:
+
+1. Optimal A-V delay =
+2. Optimal V-V offset =
+3. Unable to optimize A-V delay (if applicable)
+4. Unable to optimize V-V offset (if applicable)
+
+Billing Diagnosis: Pacemaker Cardiac Status Post (also: echo findings, symptoms, physical exam, etc.)
+
+Procedure: (TTE) 2D Limited with Limited Doppler
+
+if complete echo also performed (TTE) 2D Echo Doppler Color
+
+# Caveats
+
+- Pacemaker optimization studies require a high degree of cooperation between Echo Lab consultants, device nursing staff, sonographers, and desk personnel. Pacemaker optimization may not be performed without the input of a consultant
+- A device nurse is held on standby - notify the pacemaker department immediately if the pacemaker device optimization portion is deemed unnecessary
+- It is preferred that V-V optimization be performed before A-V optimization
+
+# Obtain the following:
+
+|Doppler|Measurement|
+|---|---|
+|Parasternal|LVOT diameter|
+|Apical| |
+|PW - Mitral inflow|Visually assess degree of E/A fusion|
+|CW - AV TVI|AV TVI / velocity|
+
+M. Bremer / Dr. Lin
+
+Last revised: 2/16/2023
+
+---
+
+# V-V Optimization
+
+Aim: Find the V-V interval (LV-RV offset) that gives the largest LV stroke volume.
+
+1. Obtain CW Doppler through aortic valve at multiple V-V intervals roughly 20-30 ms apart, measure the TVI, and calculate SV. Start at a V-V delay of 0(12).
+
+# Caveats and Tips
+
+- Do not over gain CW Doppler signals (as this leads to an overestimated SV)
+- PW LVOT Doppler signals can also be used but can be technically difficult to reproduce (for this reason CW Doppler is preferred)
+
+|First Chamber|V-V Delay|AV Delay|Adjusted AV Delay|LVOT TVI|
+|---|---|---|---|---|
+|LV first|80|AV delay| | |
+|LV first|60|AV delay| | |
+|LV first|40|AV delay| | |
+|LV first|20|AV delay| | |
+|LV first (Start Here)|0 (12)|AV delay| | |
+|RV first|-20*|AV delay – VV offset (20)| | |
+|RV first|-40*|AV delay – VV offset (40)| | |
+|RV first|-60*|AV delay – VV offset (60)| | |
+|RV first|-80*|AV delay – VV offset (80)| | |
+
+*Decrease the AV interval by this amount when the RV is stimulated first to maintain an unchanged interval of contraction between LA and LV.
+
+# A-V Optimization
+
+Aim: Find the A-V interval which maximizes the amplitude and duration of mitral inflow “A” wave.
+
+1. Assess pulsed wave Doppler of mitral inflow at multiple A-V intervals roughly 20-30 ms apart (e.g. 80 ms to 200 ms). Caution: Do not prolong the A-V interval so long as to lose biventricular stimulation in CRT patients.
+
+|A-V interval (msec)|Comments|
+|---|---|
+|80| |
+|100| |
+|120| |
+|140| |
+|160| |
+|180| |
+|200| |
+
+Optimal A-V delay:
+
+M. Bremer / Dr. Lin Last revised: 2/16/2023
+
+---
+
+# PROTOCOL TTEP
+
+# LEFT ATRIAL APPENDAGE CLOSURE DEVICE
+
+A left atrial appendage closure device prevents escape of blood clots (reducing risk of stroke) and is an alternative to blood thinners for patients in atrial fibrillation.
+
+# Inclusion Criteria:
+
+- Patient is same day to 3-month status post left atrial appendage closure device implantation (unless indicated otherwise by the ordering physician or service)
+- For TEE imaging see separate protocol
+
+# Example of a WATCHMAN Occluder Device
+
+# EIMS Data
+
+Procedure Components: 2D, Color Flow Doppler
+
+Referral Diagnosis: LAA Occlusion Device (under Post-Op Acquired Heart Disease), Atrial fibrillation
+
+First Finding: Echocardiogram performed per post left atrial appendage occlusion device protocol
+
+Second Finding: Status post LAA occlusion device placement (under s/p interventions [non-surgical])
+
+Other Findings: Left to right shunt at atrial level (if present), do not use PFO or ASD
+
+Billing Diagnosis: Atrial fibrillation (select appropriate), Aftercare Cardiac Device
+
+# Procedure: (TTE) 2D LIMITED AND COLOR
+
+Obtain the following:
+
+|2D|CFI|Measure|
+|---|---|---|
+|Parasternal|AR (LAX, SAX)|LV visual EF & RWMA|
+|Device location (LAA, SAX view @ aortic valve level)|TR (inflow)|LVIDd|
+|Pericardial effusion|†Atrial septum (SAX)|*Device|
+|Apical|LV visual EF & RWMA|MR (4ch)|
+|RV visual size / fx|TR (4ch)|*Device|
+|Device location (LAA, 2ch view)|Pericardial effusion| |
+|Subcostal|Pericardial effusion|†Atrial septum|
+
+# Caveats and Tips
+
+- *Assess for color flow around the device
+- †Assess the atrial septum with color Doppler as patients are status post trans-septal puncture
+- Optimize machine settings (gain, compression, focus, etc.) to visualize possible thrombus in the LAA and around the device
+
+J. Betz / Dr. Kane
+
+Last revised: 04/25/2023
+
+---
+
+# TEE prior to (as part of the evaluation for) LAA closure (e.g. WATCHMAN device)
+
+The specific goals of the TEE performed as part of the pre-Watchman evaluation include:
+
+- Obtaining LAA measurements to confirm anatomy conducive for Watchman device implantation and to determine the device size
+- Exclude
+
+# LAA anatomy
+
+Left atrial appendage anatomy: divided into 3 parts.
+
+1. The ostium is typically oval and diameters range from 10-40 mm, is well characterized by 3D imaging and is separated from the left upper pulmonary vein by the posterolateral ridge.
+2. The neck of the LAA is the tubular junction between the ostium and lobar portions, neighbors the circumflex and LAD coronaries and the sinus node artery in one third.
+3. The lobar region is the largest and most variable portion. Two or more lobes are found in >50%.
+
+# LAA images
+
+Obtain 2D images of the LAA at decreased depth or zoom to optimize LAA assessment. Views should be obtained at 0, 45, 90 and 135 degrees.
+
+Obtain the maximal measurements of the ostium diameter, width & length of the primary LAA lobe at end ventricular systole. (ostium typically largest at 120-135 degrees)
+
+At 0 degrees, a measurement in the plane from left coronary artery to a point approximately 1-2 cm from the tip of the postero-lateral ridge. (see diagram to the right).
+
+# Tips for obtaining LAA images at 0 degrees:
+
+- Begin in mid-esophageal view; withdraw the probe until just above the mitral valve; counter clock slightly; flex slightly; adjust the depth of the probe until the LAA is visualized; Adjust the “right-left” wheel to optimize the image.
+
+At 45, 90, 135 degrees appropriate 2D views such that a measurement in the plane from the top of the MV annulus to a point approximately 2 cm from the tip of the postero-lateral ridge is possible. (See diagrams below)
+
+|1-2cm|1-2cm|1-2cm|
+|---|---|---|
+|LAA width and height at 45⁰|LAA width and height at 90⁰|LAA width and height at 135⁰|
+
+G. Kane 10/12/2015
+
+Page | 1
+
+---
+
+# TEE prior to LAA closure (e.g. WATCHMAN device)
+
+Images to be obtained: (measures of the LAA should be performed when LAA size is largest at end ventricular systole)
+
+- 2D 4 chamber, 2 chamber and 3 chamber views optimizing the LV
+- Multiple 2D imaging planes of the LA
+- Multiple 2D imaging planes of LAA device at decreased depth or zoom mode (at a minimum record views at 0°, 45°, 90° and 135°) – as described above.
+- Color Doppler of the LAA at decreased depth or zoom mode, at best angle visualized.
+- Reduce the Nyquist limit to optimize color flow (include the full width of the LAA ostium surrounding the borders and tip of LAA).
+- Pulsed wave Doppler within the LAA (sampled volume at least 1cm into the LAA);
+- 3D of the LAA ostium with diameter and area measures. Off-line measures performed in Q-lab with a similar measurement approach to the LVOT diameter measures.
+- 2D Mitral Valve w/w’out color in multiple images planes (include views such as 4ch, 3ch and 2ch)
+- CW Doppler through the mitral valve for MS
+- 2D and color Doppler of Interatrial Septum at 45°, 90° and 135°. If atrial septal aneurysm is present: measure the atrial septal total excursion and the ASA length
+- 2D of agitated saline passage to assess for intraatrial shunt
+- 2D imaging from the esophagus and / or stomach to assess for pericardial effusion
+- 2D of Ascending Aorta, Aortic Arch and Descending Aorta
+
+Use of echo contrast with low MI imaging (0.1-0.3) should be considered, as appropriate, to differentiate pectinate muscle from thrombus.
+
+# LAA Occluder Device Requirements (5 device sizes: 21, 24, 27, 30 and 33 mm)
+
+- Landing zone should be measured from the inferior part of the LAA ostium at the level of the circumflex coronary artery to a point 1-2 cm distal to the tip of the posterolateral ridge.
+- Required landing zone diameters: 17-31 mm.
+- Choice of device size: 2-4 mm larger than the largest measured diameter.
+- Required depth of main anchoring lobe: needs to be ≥ the maximum LAA ostium size to be able to implant any given size device.
+
+G. Kane 10/12/2015
+
+Page | 2
+
+---
+
+# PROTOCOL: PERICARDIAL DISEASE
+
+# Inclusion Criteria
+
+- Referral: Constriction, constrictive pericarditis, pericarditis, pericardial disease
+- Patient is status post pericardiectomy (NOT a hospital dismissal echo…see Dismissal Protocol)
+- Patient returning for follow-up after pericardiocentesis (drain has been removed)
+- Assessment for cardiac tamponade (assess chamber collapse, exclude strain)
+- Note: Suspect constriction for patients in heart failure following cardiac surgery
+
+# EIMS Data
+
+Procedure Components: 2D Ext, Color Flow, Dop Ext, TDI, M-mode, Color M-mode, Respirometry, Strain
+
+Serial Study: General
+
+Findings: “Echo performed per pericardial disease protocol” and constriction result
+
+Billing Diagnosis: Pericarditis Constrictive (HCC) if applicable, otherwise symptoms (SOB, CHF, etc.)
+
+Performable: 2D ECHO DOPPLER COLOR
+
+Charge Capture: Myocardial Strain - Hospital
+
+Obtain Standard TTE + LV strain + RV free wall strain + 10 beat clips with respirometer of:
+
+|2D|CFI|Doppler|Measurement| |
+|---|---|---|---|---|
+|Parasternal| | | | |
+|PLAX|PSAX|M-mode PSAX or PLAX| | |
+|Apical| | | | |
+|A4C| |PW - mitral inflow|MV E velocity - insp / exp| |
+| | |PW - TV (from best window)|TV E velocity – insp / exp| |
+|Other Windows (Subcostal, SSN, RSC)| | | | |
+|IVC|Color m-mode - HV|PW - HV| | |
+| | |PW - SVC| | |
+
+# Caveats and Tips
+
+- Follow-up exams: Use LV Function Protocol, add LV lateral TDI, strain, and the above images
+- Respirometer: Quality tracings are critical (see Respirometer Tips document)
+- HV & SVC tips: ↓ color scale, ↑ SV size (5 to 7 mm), insure SV stays within flow
+- Tissue Doppler: Velocities may vary so measure the highest (respirometer not needed)
+- Pericardiectomy: Perform strain to evaluate for resolution of regional strain abnormalities
+- Strain: Constrictive pericarditis shows a specific strain pattern of regional changes (↓ in lateral walls [LV and RV], preserved or ↑ septal wall)
+
+# Strain
+
+Constrictive pericarditis shows a specific strain pattern of regional changes:
+
+|Constriction:|Restriction:|
+|---|---|
+|RV free wall strain &lt; LV septal strain|RV free wall strain &gt; LV septal strain|
+|LV free wall strain &lt; LV septal strain|LV free wall strain ≥ LV septal strain|
+
+If strain can’t be performed on all segments partial analysis can still help determine regional variation (e.g. 4C and RV views may distinguish septal from free wall strain)
+
+S. Tucker / Drs. Oh and Kane
+
+Last revised: 9/12/2018
+
+---
+
+# PROTOCOL: AMYLOIDOSIS
+
+# Cardiac amyloidosis
+
+deposition of abnormal protein in the heart.
+
+# Cardiac Manifestations:
+
+- Thickened echogenic walls
+- Pericardial effusion
+- Diastolic dysfunction
+- Systolic dysfunction
+- Low cardiac output
+- Arrhythmias
+- Apical sparing strain pattern
+
+# Inclusion Criteria
+
+- Amyloidosis has been determined at Mayo by echocardiogram, or
+- Study indication is amyloid or multiple myeloma
+
+# EIMS Data
+
+# Procedure Components:
+
+2-D, Color Flow Doppler, Doppler, TDI, Strain Imaging
+
+# Serial Study:
+
+Amyloid, General
+
+# First Finding:
+
+Echocardiogram performed per amyloidosis protocol.
+
+# Billing Diagnosis:
+
+Amyloidosis (HCC)
+
+# Procedure:
+
+(TTE) 2D Echo Doppler Color
+
+# Charge Capture:
+
+Myocardial Strain - Hospital
+
+# Obtain the following if the last echo was:
+
+- ≥ 2 years → full echo + LV & RV longitudinal strain + RV wall thickness
+- < 2 years → LV Function Protocol + following
+
+|2D|CFI|Doppler|Measurement|
+|---|---|---|---|
+|Parasternal| |LV wall thickness| |
+|Apical|LV strain|RV strain| |
+|Subcostal|RV fx|RV wall thickness| |
+
+# Caveats and Tips
+
+- Acquire apical views with a similar depth, width, & frame rate for speckle tracking
+- Further assessment for diastology may be necessary (Valsalva, LA strain, pulmonary veins)
+- If color flow Doppler demonstrates worsening regurgitation by ≥ two grades, perform comprehensive regurgitation assessment
+- Report out Mayo calculated strain value for LV strain and vendor calculated strain value for RV strain (when RV strain package is used). Use RV strain package when available
+- Discuss incidental findings with interpreting consultant
+
+S. Erickson, R.D.C.S. / Dr. M. Grogan
+
+Updated: /08/2024
+
+---
+
+# PROTOCOL: LEFT VENTRICULAR ASSIST DEVICE
+
+# Inclusion Criteria
+
+- Patient with Left Ventricular Assist Device (LVAD)
+
+# EIMS Data
+
+# Procedure Components:
+
+2-D, Color Flow Doppler, Doppler, M-Mode
+
+# Serial Study:
+
+General + any other applicable studies
+
+# First Finding:
+
+Echocardiogram performed per left ventricular assist device protocol.
+
+# Second Finding:
+
+Status post Left Ventricular Assist Device (LVAD); date of implant; type of device
+
+# Additional findings:
+
+See ‘post operative history’, ‘ventricular assist devices’ folder, add applicable
+
+# Billing Diagnosis:
+
+Heart assist device (for native heart), CHF systolic
+
+# Procedure:
+
+2D Echo Doppler Color
+
+# Obtain the following:
+
+|2D / M-mode|CFI|Doppler|Measurement|
+|---|---|---|---|
+|Left Parasternal (High LPS)|LV EF (visual) & RWMA|Inflow cannula|RV size / fx|
+| |Outflow cannula|RVOT tvi|Inflow cannula|
+| |AR|TR velocity|LVID d/s|
+| |Outflow cannula|MR|PW - inflow cannula|
+| |RVOT diameter|AV opening (2D AND M-mode)|TR|
+| |CW - outflow cannula|Asc. aorta|Asc. aorta|
+| |Atrial septum| | |
+|Apical|Septal position (ventricular and atrial- if shifted to left - 10 beat clip)|AR|PW - inflow cannula|
+| |MR|Mitral inflow|TR|
+| |TR velocity|Inflow cannula|LVOT tvi|
+|r/o peric. effusion / coagulum| | | |
+|Subcostal|LV size / fx|RV size / fx|Atrial septum|
+| |HV|IVC| |
+|Right Parasternal (SSN and RSC if outflow cannula not visualized elsewhere)|Asc. Aorta|Asc. Aorta|CW - outflow cannula|
+|Outflow cannula|Outflow cannula| | |
+
+M. Bremer / Dr. Borgeson
+
+Last revised: 02/08/2024
+
+---
+
+# PROTOCOL: LEFT VENTRICULAR ASSIST DEVICE
+
+Omit the following:
+
+- LA strain/volumes, LV volumes, pulmonary veins, LVOT TVI (unless aortic valve opening), AV TVI, all TDI, abdominal aorta
+
+# Tips
+
+If pump speed is to be changed during the echo, an echo consultant AND a provider from the VAD team (NP, PA, MD) must be present.
+
+No data is better than wrong (phantom) data.
+
+# Note:
+
+- most recent chest x-ray, chest CT, and echo images (especially cannula flow and window, caval window, apical images) and report (for aberrant velocities)
+- anatomic placement details (e.g. where does the outflow cannula insert)
+- device type and pump speed in the report (ask the patient)
+
+# Outflow cannula:
+
+- Systolic velocities should be higher than diastolic velocities
+- Flow should be away from the transducer (below the baseline)
+- Try RPS, high RPS, high LPS windows (assess SSN and RSC if not seen elsewhere)
+- CW Doppler is preferred for the outflow cannula primarily to acquire the highest gradient and to more easily note the presence of obstruction (kinks in the cannula, etc.). Report the CW Doppler velocity in EIMS.
+
+# Inflow cannula:
+
+- Systolic velocities should be higher than diastolic velocities
+- PW Doppler is preferred for the inflow cannula primarily to avoid the mitral inflow which is a common contaminant.
+- Avoid signals where the mitral inflow contaminates the inflow cannula flow.
+
+# The HeartMate 3 artificial pulse algorithm
+
+causes periodic rapid changes in pump speed and is responsible for temporarily higher cannula flow peak velocities.
+
+# Color:
+
+- Adjust color scale to help place pulsed wave sample volume
+- Decrease color gain to minimize color artifact
+
+# Caveats
+
+- If color flow Doppler demonstrates worsening regurgitation by ≥ two grades, perform a comprehensive regurgitation assessment
+- Obtain RVOT diameter and TVI only if calculation of total cardiac output is desired. The total cardiac output (combined LVAD flow output and native LVOT flow output [if any]) is equal to the RVOT cardiac output.
+
+M. Bremer / Dr. Borgeson
+
+Last revised: 02/08/2024
+
+---
+
+# PROTOCOL: C
+
+# & R
+
+# C
+
+# HEMOTHERAPY
+
+# ECENT HEST ADIATION
+
+# Inclusion Criteria
+
+- Echocardiogram order specifically requests strain imaging in an oncology/hematology patient
+- Echocardiogram order to assess left ventricular function in patients with i) breast cancer, lymphoma, or sarcoma, ii) prior to or within three years of potentially cardiotoxic chemotherapy, iii) prior to or within 3 years of chest radiotherapy
+- Otherwise, if a non-strain echo is ordered, you do not need to do the strain protocol just because the patient has a history of cancer e.g. prostate, colon, bladder, brain cancer
+
+# EIMS Data
+
+Procedure Components: 2-D, 3-D, Doppler, Strain Imaging
+
+Serial Studies: General, Oncology
+
+First Finding: Echocardiogram performed per chemotherapy protocol to assess left ventricular function.
+
+Second Finding: Last full echocardiogram performed (date).
+
+Billing Diagnosis: Monitoring Cardiotoxic Drug Pre Chemotherapy (or Post Chemotherapy)
+
+Procedure: ≥6 months = (TTE) 2D Echo Doppler Color <6 months = (TTE) 2D Limited with Limited Doppler
+
+# Charge Capture
+
+Myocardial Strain – Hospital
+
+Obtain the following if the last echo was:
+
+|≥ 2 years|Full echo + LV longitudinal strain If last full echo ≥ 2 years, perform full echo regardless of more recent limited exams|
+|---|---|
+|6 months < 2 years|LV function protocol + LV longitudinal strain|
+|< 6 months|Follow table below unless last or current study is abnormal, then perform 6 months < 2 year protocol, more as warranted|
+
+# 2D
+
+|CFI|Doppler|Measurement|
+|---|---|---|
+|Apical|4 CH|LVOT TVI†|
+| |LAX|LV volumes & EF (3D preferred)*|
+| |2 CH|TR velocity|
+|Apical SAX| |LV strain|
+|Subcostal|IVC| |
+|STOP HERE if LV Volumes provided diagnostic SV & EF and if Regionals and were well visualized…|Parasternal|…if necessary, image the following only as needed…|
+|SAX RWMA-base/mid/apex|LV EF & RWMA| |
+| |LVIDd/s|LVOTd†|
+
+* Have a low threshold for the use of myocardial enhancement imaging to improve quality of biplane images (use image enhance after strain acquisition)
+
+† Previous LVOT diameter may be used if serially consistent.
+
+# Caveats and Tips
+
+- If LVEF drops by ≥ 10% to less than 53% - add the statement “Cardio-oncology clinic consult recommended” to Final Impressions
+- If the GLS drops by 15% (approximately an absolute change of 3%) - even if the strain remains normal or the LVEF is normal - add the statement “Cardiology / cardio-oncology clinic consult recommended” to Final Impressions
+- If RVSP >55 mmHg – add RV dimensions, FAC (fractional area change), TAPSE, RV strain and add the statement “Cardio-oncology clinic consult recommended” to Final Impressions
+
+Angela Miller/LuAnn Springer/Dr. Garvan Kane
+
+Revised: 3/26/2024
+
+---
+
+# Echocardiographic Considerations for Patients with WiSEᵀᴹ CRT Device
+
+As part of SOLVE-CRT, patients undergo implantation of the WiSEᵀᴹ CRT System. The WiSEᵀᴹ CRT System is an implantable cardiac pacing system that provides biventricular pacing. This includes LV endocardial stimulation via an electrode that converts ultrasound energy into electrical energy for pacing. The wireless electrode is activated by an implanted ultrasound transmitter for its normal operation, but in rare instances (reportedly 3% of implants) transthoracic echo imaging has triggered extra stimulations. Extra stimulations have usually been associated with apical or near-apical electrode implants.
+
+It is anticipated that patients will undergo planned or unplanned echocardiographic imaging in the outpatient and inpatient setting. The purpose of this document is to understand risk factors for extra stimulations, facilitate identification of extra stimulations during echo imaging, and outline an echo imaging protocol to minimize the risk of extra stimulations should they occur.
+
+# Risk Factors for Extra Stimulations:
+
+- Apical or near apical electrode position
+- Short time interval after electrode implant
+- Imaging from apical views (resulting in the echo probe in very close proximity to the electrode)
+- High Power Settings (as indicated in displayed Mechanical Index)
+- Low Frequency ultrasound (often used for harmonic imaging)
+- Thin body habitus
+
+# Safety Considerations for Patients with WiSEᵀᴹ-CRT Device Undergoing Echocardiography
+
+1. If the patient has previously had noted echo-induced ventricular arrythmia: utilize the low power (low MI) echo imaging protocol (see below).
+2. Identify the location of the LV endocardial implant (apical, mid, or basal ventricle). If an apical electrode is discovered, stop imaging and commence the low power (low MI) echo imaging protocol (see below) to reduce the risk of extra stimulations.
+3. If new premature ventricular contractions (PVCs) are observed in what was previously a stable background ECG, this may represent echo-induced extra stimulations. If this occurs, stop imaging and commence the low power (low MI) echo imaging protocol (see below).
+4. Use of CW Doppler should be minimized and do not directly focus the CW ultrasound beam on the electrode. Know the location of the LV endocardial implant prior to any use of CW Doppler.
+
+# Low Power (Low MI) Echocardiographic Protocol for WiSEᵀᴹ-CRT
+
+Outlined below are the recommended echo procedural steps for those with an apical LV electrode implant, those with new PVCs that occur during echocardiographic imaging, or those with a history of extra stimulations on prior echocardiograms.
+
+1. Reduce power (MI) setting to the lowest possible machine setting.
+2. Increase machine power incrementally until image quality is adequate. STOP imaging and proceed to step 3 if extra stimulation is observed and image quality remains inadequate.
+3. If extra stimulations occur prior to achieving adequate image quality, consider the use of an ultrasound enhancement agent with the lowest MI settings.
+
+---
+
+# PROTOCOL:
+
+# PROTOCOLDISMISSAL ECHO
+
+# CV S / S I
+
+# CVSURGER STRUCIURAL WNTERVENTION
+
+# URGERY TRUCTURAL NTERVENTION
+
+# Inclusion Criteria
+
+- Dismissal echo requests from CV in patients who are status post cardiac surgery
+- Does NOT include non-dismissal study types (example: rule out effusion).
+- When uncertain if echo is for dismissal, please consult the ACS or interpreting physician
+
+# EIMS Data
+
+# Procedure Components:
+
+2-D, Color Flow Doppler, Doppler
+
+# Coded Referral Diagnosis:
+
+Surgical procedure type
+
+# Serial Study:
+
+General. Stop/remove serial studies that no longer apply (ex: AS studies in AVR patients)
+
+# First Finding:
+
+Echocardiogram performed per dismissal echo protocol.
+
+# Second Finding:
+
+Status post… (surgery type, usually found in the post-operative history folder)
+
+# Billing Diagnosis:
+
+Variable (echo findings, surgery/intervention type, symptoms, physical exam, etc.)
+
+# Procedure:
+
+(TTE) 2D Echo Doppler Color
+
+# Obtain LV Function Protocol + the following:
+
+- AVR/Clinical TAVR = All views of AR, AV gradient from all windows, ascending aorta & arch
+- Device closure for periprosthetic AR = All views of AR, AV gradient-all windows, ascending aorta & arch
+- Device closure for periprosthetic MR = All views for MR, zoom SAX of MV, MV gradient, atrial septum
+- Open MV repair/replace = All views for MR, zoom parasternal SAX of MV, MV gradient, LV outflow gradient if SAM (do not Valsalva), ascending aorta & arch
+- Mitral Edge-to-Edge = All views for MR, zoom parasternal SAX of MV, MV gradient, atrial septum
+- Tricuspid Edge-to-Edge = All views for TR, TV gradient
+- TV surgical repair/replace = All views for TR, TV gradient, ascending aorta & arch
+- PV repair/replace = All views for PR, PV gradient from all windows, ascending aorta & arch
+- CABG = ascending aorta & arch
+- Septal myectomy = LV wall thickness, VSD/septal perforator flow (parasternal SAX & LAX, apical 4ch & LAX), AR (all windows), LV outflow gradient (do not Valsalva), ascending aorta & arch. Do not do strain
+- Ascending aorta replacement = Measure ascending aorta from left and right parasternal windows, arch
+- Pericardiectomy = Ascending aorta & arch if cardiopulmonary bypass used. Respirometer not needed
+
+# Caveats and Tips
+
+- LV tissue Doppler can be excluded (still do mitral inflow)
+- Visualize the ascending aorta and arch to assess for dissection
+- Valve replacements/repair acquire 2D zoomed views in all windows
+- Comment on LA and RA size (visual estimate only)
+- Most patients can be rolled onto their left side; ask nurse if you have questions or need assistance
+
+C. Pin / Dr. Kane Last revised: 1/10/2024
+
+---
+
+# PROTOCOL: CARCINOID HEART DISEASE
+
+Carcinoid Syndrome, the primary carcinoid tumor and metastases release serotonin. Carcinoid Heart Disease is seen in &gt; 20% of patients with Carcinoid Syndrome.
+
+Cardiac manifestations: Right heart valves thicken/retract resulting in stenosis and/or regurgitation. Left heart valve involvement possible for those with right-to-left shunts.
+
+# Inclusion Criteria
+
+- Known carcinoid tumors
+- Referral for screening of carcinoid heart disease
+
+# EIMS Data
+
+Procedure Components: 2-D Ext, Dop Ext, CFI, TDI, M-Mode, (possible 3D, IV Ag. Saline)
+
+Serial Study: General, Pulm. HTN
+
+First Impression: Echocardiogram performed per carcinoid protocol.
+
+Billing Diagnosis: Carcinoid (select appropriate)
+
+Procedure: (TTE) 2D Echo Doppler Color (possible contrast)
+
+# Obtain:
+
+1. Shunt study *initial echo only* for atrial (rest & Valsalva) or intrapulmonary
+2. Standard TTE, PLUS the following:
+
+|2D|CFI|Doppler|Measurement|
+|---|---|---|---|
+|Parasternal|RV outflow|RV outflow|CW - end PR|
+| |PV - PSAX|PV - PSAX|CW - PV gradient/TVI|
+| |MV - SAX| | |
+|Apical|RV size / fx|CW - TV gradient/TVI|RV diameter - base, mid, length|
+| |MV (zoomed)|CW - MV|RV area d/s|
+| |AV (zoomed)|gradient/TVI|RV strain|
+| |TV (zoomed)| |TAPSE|
+| | | |**3D RV volumes and function|
+|Subcostal|PV|PV|PW - hepatic veins|
+| |IVC|- insp/exp (2D or M-mode)| |
+| |RV free wall (zoomed)|CW -CW - end PR|RV free wall thickness|
+| | |PV gradient/TVI| |
+
+# Caveats and Tips
+
+- *If an agitated saline bubble study has been previously performed there is NO need to repeat
+- Careful imaging of the PV including 2D and CW Doppler (for PS and PR) in multiple planes is essential. This should be performed in both the conventional parasternal short axis view as well as in a high parasternal long axis view (RV outflow view)
+- Zoomed 2D images of all valves should be performed in all views to allow complete evaluation of valvular thickening and leaflet motion
+- **3D RV volumes and EF should be performed if appropriate equipment and staff are available
+
+A. Miller, R. Klug / Drs. Luis, Pellikka, and Connolly Last revised: 02/06/2017
+
+---
+
+# Follow-up TEE after WATCHMAN device deployment
+
+The goal of the Follow up TEE examinations for patients with a WATCHMAN device is to assess for the following information:
+
+- Absence / presence of residual LAA flow around the device. Use of echo contrast should be considered, as appropriate, to differentiate LAA flow from LUPV pericardial oblique sinus, and to differentiate pectinate muscle from thrombus.
+- Absence / presence of residual atrial septal shunt.
+- Device position confirmation.
+- Absence / presence of thrombus on the WATCHMAN device.
+
+Images of the LAA should be optimized at either a decreased depth or in zoom mode.
+
+LAA seal is defined as no or a small amount of visible residual blood flow AROUND the margins of the device in a retrograde or antegrade fashion, with jet size &lt; 5mm. If there is residual LAA blood flow with a jet size &gt; 5mm AROUND the margins of device in either a retrograde or antegrade fashion, the device is not considered 'sealed'.
+
+Device Seal: Perform color Doppler assessment by interrogating the entire device /LAA border. Perform a slow sweep from 0° to 180° to fully visualize the placement of the device while performing color Doppler. Include stops at approximately 0°, 45°, 90° and 135° to record clips. Check for residual flow around the device borders. Injection of Echo contrast (with low MI imaging (0.1 – 0.3)) may aid in assessing flow around the device. If a leak is visualized, the width of the leak should be measured at the plane of the device at the vena contracta and should exclude any color bleed over the device and/or myocardial structures.
+
+G. Kane 10/12/2015
+
+Page | 1
+
+---
+
+# Follow-up TEE after WATCHMAN device deployment
+
+Images to be obtained:
+
+- 2D 4 chamber, 2 chamber and 3 chamber views optimizing the LV
+- Multiple 2D imaging planes of the LA
+- Multiple 2D imaging planes of LAA device at decreased depth or zoom mode to optimize LAA device placement (at a minimum record views at 0°, 45°, 90° and 135°).
+- Color Doppler of device at decreased depth or zoom mode, reduce the Nyquist limit to optimize color flow (include the full width of the LAA ostium surrounding the borders and tip of the appendage) (at a minimum record views at 0°, 45°, 90° and 135°).
+- Repeat color Doppler interrogation around the device borders to include the entire device/LAA border. Perform a slow sweep from 0° to 180° to fully visualize placement of the device while performing color Doppler.
+- Color Doppler of Interatrial Septum (residual shunt from trans-septal)
+- 2D Mitral Valve in multiple images planes (include views such as 4ch, 3ch and 2ch) with and without color
+- 2D imaging from the esophagus and/or stomach to assess for pericardial effusion
+- 2D of Ascending Aorta, Aortic Arch and Descending Aorta
+
+Use of echo contrast with low MI imaging (0.1 – 0.3) should be considered, as appropriate, to differentiate LAA flow from LUPV pericardial oblique sinus, and to differentiate pectinate muscle from thrombus.
+
+Tips for obtaining LAA images at 0 degrees: Begin in mid-esophageal view; withdraw the probe until just above the mitral valve; counter clock slightly; flex slightly; adjust the depth of the probe until the LAA is visualized; Adjust the “right-left” wheel to optimize the image.
+
+G. Kane 10/12/2015
+
+---
+
+# Mayo Clinic Echocardiography Laboratory
+
+# Congenital Transesophageal Echocardiography Protocol
+
+# Rochester, MN 55905
+
+# A. PRINCIPLE/PURPOSE
+
+The majority of congenital transesophageal echocardiograms are intra-operative transesophageal
+echocardiograms, which are performed in the St. Mary’s Hospital (SMH) Operating Rooms. SMH in-
+patient transesophageal echocardiograms are performed in the echocardiography laboratory located on
+4ᵗʰ Joseph. In addition, transesophageal echocardiograms may be performed bedside or in the cardiac
+catheterization laboratory. Outpatient transesophageal echocardiograms are performed in the Gonda 6
+Echocardiography Laboratory. The following information will pertain in general to the indications,
+procedures and guidelines for congenital intra-operative transesophageal echocardiography.
+
+# B. INDICATIONS (including, but not limited to)
+
+Intraoperative transesophageal echocardiography
+
+- Pre and post-operative assessment of surgical repair of congenital heart disease
+- Valve repair
+- Valve replacement
+- Myectomy for hypertrophic cardiomyopathy
+- Unstable hemodynamics
+
+Routine transesophageal echocardiography (inpatient or outpatient)
+
+- Valve assessment, native and mechanical
+- Technically difficult transthoracic echo
+- Congenital abnormality (including shunt assessment in adults)
+- Catheter closure procedure in patients with patent foramen ovale or atrial septal defect
+- Pre-cardioversion in patients with congenital heart disease
+
+# C. CONTRAINDICATIONS
+
+- History of esophageal disease such as stricture, ulcer, esophageal cancer, previous esophageal surgery.
+- These are relative contraindications. If there is a question whether a patient truly has disease of
+the esophagus, an upper endoscopy may be required prior to the transesophageal echocardiogram.
+- Patient size
+
+# D. MEDICATIONS
+
+- Intraoperative transesophageal echocardiograms are routinely performed after induction of general
+anesthesia, which is managed by the anesthesia team.
+- Routine Congenital TEE
+- Topical anesthetic with 1 inch 5% lidocaine paste and/or viscous lidocaine (2%) gargle
+- Oxygen via nasal cannula prn
+
+---
+
+# Procedure # 2103
+
+# Congenital Transesophageal Echocardiography Protocol
+
+- IV Fentanyl®; usual dose 25-50 mg
+- Versed® (midazolam); usual dose 2-10 mg
+- If desired, Robinul® (glycopyrrolate); usual dose 0.2 mg
+- If needed, Romazicon® (flumazenil); usual dose 0.2 mg
+- If needed, Narcan® (naloxone HCL); usual dose 0.4 – 2 mg
+- Occasionally general anesthesia with Propofol is used under the supervision of an Anesthesiologist (cath lab or ICU)
+- Intraoperative transesophageal echocardiograms are routinely performed after induction of general anesthesia, which is managed by the anesthesia team.
+
+# E. PATIENT EDUCATION (ROUTINE TEE)
+
+- A nursing assessment and procedure-specific education will be performed as per the TEE procedural guideline. Both oral and written information is given to the patient.
+- All patients or family give informed consent regarding the transesophageal echocardiogram procedure. The goals, risks and alternatives are discussed with the patient. In situations where informed consent is not able to be obtained (sedated patients on ventilators or other critically ill patients), either the referring physician or the physician performing the procedure obtains informed consent from the nearest family member or designated guardian.
+
+# F. PROTOCOLS
+
+# Intra-operative Transesophageal Echocardiogram
+
+- After administration of general anesthesia, the anesthesiologist in charge of the case inserts the probe to the mid-esophagus.
+- The intra-operative TEE is performed and interpreted by a pediatric cardiologist.
+- Pre-bypass TEE images are obtained as outlined below, and discussed with the operative team.
+- The standard views obtained (in any order) include:
+
+---
+
+# Procedure # 2103
+
+# Congenital Transesophageal Echocardiography Protocol
+
+- A limited, goal-directed study may be performed at the discretion of the referring physician or the physician performing the procedure, particularly if the patient has had a recent TTE or TEE.
+- The probe is left in place during the operative procedure.
+- Post-bypass images are obtained after the operative procedure is complete. In most cases, a complete two-dimensional, Color Flow and Doppler exam is performed to assess cardiac function and the cardiac repair. The findings are discussed with the operative team.
+- Following the completion of the surgery, stabilization of the patient and closure of the chest, the TEE probe is removed.
+
+# Routine Transesophageal Echocardiogram
+
+- All patients are NPO as per the Mayo Clinic Moderate Sedation Guidelines. In general this means no solid meal eight hours prior to the procedure. Clear liquids or a light liquid meal may lessen the amount of time required to be NPO, but this is up to the discretion of the physician performing the procedure and the urgency of the transesophageal echocardiogram. Patients who are receiving tube feedings should be held NPO at least four hours prior to the procedure, depending on the location of the tube (pre- or post-pyloric).
+- Confirmation of NPO status and any allergies are discussed.
+- An intravenous line is started.
+- Automated blood pressure measurement is obtained at baseline, every five to fifteen minutes, and p.r.n. during the procedure.
+- Continuous oxygen saturation monitoring is performed.
+- The physician performing the procedure reviews with the patient the goals, risks and alternatives of the procedure.
+- Topical anesthesia of the oral pharynx is administered by giving viscous lidocaine gargle.
+- For sedation, the patient typically receives Fentanyl® and/or Versed® in the doses outlined above. Mayo Moderate Sedation Guidelines are followed.
+- The esophageal probe is lubricated with a combination of viscus lidocaine and lubricant.
+- Esophageal intubation is performed.
+- After protocol images are obtained, the TEE probe is withdrawn. Post-procedure care is administered as noted in the TEE procedural guideline.
+
+# G. POTENTIAL COMPLICATIONS
+
+- Sore throat
+- Esophageal erosion or tear
+- Gastric erosion or perforation
+- Hypoxia
+- Hypotension
+- Death
+
+# H. REFERENCES
+
+1. Oh JK, Seward JB, Tajik AJ. The Echo Manual. 3ʳᵈ ed. Philadelphia: Lippincott, Williams & Wilkins, 2007.
+2. Freeman, WK, ed. Transesophageal Echocardiography. Boston: Little, Brown, 1994.
+
+# I. APPROVALS
+
+Supervisor                                                      Date
+
+---
+
+# Adult Comprehensive Transesophageal Echocardiography (TEE) Protocol
+
+# Content Applies To:
+
+All Mayo Clinic Echocardiography Laboratories
+
+# Scope
+
+This protocol is to be used as a guideline for Echo Lab Staff performing TEE procedures in all Mayo Clinic Echocardiography Laboratories.
+
+# Purpose
+
+This protocol is intended to provide the minimum standard for a complete transesophageal echocardiogram.
+
+# Protocol
+
+# Indications
+
+Routine transesophageal echocardiography (inpatient or outpatient)
+
+- Inadequate transthoracic echo
+- Source of embolism
+- Hypoxia
+- Valve assessment, native and mechanical
+- Congenital abnormality (including shunt assessment in adults)
+- Assessment for cardiac mass/thrombus
+- Assessment of ventricular systolic and/or diastolic function
+- Aortic disease or dissection
+- Pre-cardioversion
+- Pre and Post radiofrequency ablation or other electrophysiologic study
+- Echocardiographic guidance of cardiac interventional procedures
+- Evaluation of cardiac devices (VADs)
+
+In some instances “limited” TEEs are performed (i.e., in the intraoperative or interventional settings with time constraints or when a follow up examination is performed to evaluate specific pathology)
+
+# Medications
+
+- Topical anesthetic
+- - 1 inch 5% lidocaine paste, 4% lidocaine hydrochloride topical solution and/or viscous lidocaine (2%) gargle
+- Benzocaine or other anesthetic spray
+
+Oxygen via nasal cannula
+- IV Fentanyl®; usual dose 25-100 mcg
+- Versed® (midazolam); usual dose 2-10 mg
+- If desired, Robinul® (glycopyrrolate); usual dose 0.2 mg
+- If needed, Romazicon® (flumazenil); usual dose 0.2 mg
+- If needed, Narcan® (naloxone HCL); usual dose 0.4 – 2 mg
+- Occasionally general anesthesia with Propofol is used under supervision of an anesthesiologist
+
+---
+
+# Current Page Content
+
+- Methylene Blue 1% solution 1 mg/kg IV once over 5 minutes for treatment of methemoglobinemia.
+- Intraoperative transesophageal echocardiograms are routinely performed after induction of general anesthesia, which is managed by the anesthesia team.
+
+# Pre-Procedure
+
+- Pre-procedure assessment must be performed according to the Mayo Clinic Adult Moderate Sedation Procedure.
+- Venous access should be obtained prior to intravenous (IV) sedation and maintained during sedation until discharge criteria are met.
+- Topical anesthesia of the oral pharynx may be administered by giving lidocaine paste or topical solution, viscous lidocaine gargle, or anesthetic spray.
+- A final verification process must be completed prior to the start of the procedure. Verify the patient's identity using 2 identifiers.
+
+# Intra-Procedure
+
+- An airway assessment must be performed prior to administration of initial sedation medications and documented in the medical record.
+- Immediate pre-sedation reassessment must be completed within 10 minutes preceding administration of initial sedation medications. This should include:
+- Measurement of blood pressure
+- Heart rate
+- Oxygen saturation
+- ECG monitoring
+- CO2 monitoring when available or with deep sedation
+- Refer to Mayo Clinic Moderate Sedation Drugs and Dosing for medication dosages and rates of administration. General principles which apply to all medication administration:
+- Give medication in small incremental doses to desired effect.
+- Assess therapeutic effect before determining the next incremental dose and observe patient for:
+- A decrease in oxygen saturation via pulse oximetry
+- Ability to ventilate and maintain a patent airway
+- An appropriate response to physical stimulation and/or verbal command
+- The patient must be continually monitored by direct observation and by indirect physiologic measurements.
+- Oxygen saturation should be monitored by continuous pulse oximetry.
+- Heart rate, respiratory rate, and blood pressure should be monitored and documented at 5 min intervals during procedure.
+- Airway patency and ventilatory status should be continually assessed by verifying air movement with breathing.
+- Continuous ECG monitoring should be used on all patients who are receiving moderate or deep sedation. Document
+
+---
+
+# Initial Heart Rhythm and Significant Changes
+
+- Level of consciousness (RASS) and pain assessment should be monitored as appropriate for sedation medication administration and/or procedure. Minimum documentation of every 15-20 minutes.
+- Supplemental oxygen should be used for patients undergoing moderate and deep sedation unless medically contraindicated, or if it would place the patient at risk of fire when electrocautery or other ignition sources are used.
+- The esophageal probe is lubricated.
+- Esophageal intubation is performed.
+- Images are obtained as listed below.
+
+# Standard Views/Guidelines
+
+The images do not need to be obtained in the order listed below. The examination should be performed in a methodical fashion although the order of imaging plane acquisitions and Doppler may vary so as to answer the question at hand in an expeditious fashion. It is also recognized that imaging characteristics of individual patients may preclude certain views and measurements. If 3D echocardiography or an echo enhancement agent is indicated, appropriate documentation must be included in the report. If any required view or Doppler signal cannot be adequately obtained, it should be recorded and labeled in order to demonstrate that it was attempted. A limited, goal-directed study may be performed at the discretion of the referring physician or the physician performing the procedure, particularly if the patient has had a recent TTE or TEE.
+
+The standard views obtained (in any order) include:
+
+- Gastric short axis and long axis views
+- Standard 2 and 4 chamber views
+- Short and long axis views of the aortic valve with appropriate Doppler
+- Multiple imaging planes of the mitral valve with appropriate Doppler
+- Multiple imaging planes of the tricuspid valve with appropriate Doppler
+- Longitudinal view of the pulmonic valve with appropriate Doppler
+- Multiple imaging planes of the right atrium, left atrium and left atrial appendage with appropriate Doppler
+- In cases of suspected cardiac source of emboli, when no obvious intracardiac shunt is identified with color Doppler, injection of agitated saline is required unless contraindicated.
+
+---
+
+# Imaging Procedures
+
+- Multiple imaging planes of the atrial septum and foramen ovale with appropriate Doppler
+- Imaging of the pulmonary veins with appropriate Doppler (when mitral regurgitation is present)
+- Multiple imaging planes of the ascending, descending and transverse arch of the aorta
+- Long axis views of the main pulmonary artery and proximal portions of the right and left pulmonary arteries
+- Images of the proximal inferior and superior vena cava
+- Imaging of the pericardial space and pericardium
+
+# Post-Procedure
+
+- After all images are obtained, the TEE probe is withdrawn.
+- Document a post-procedural note after the procedure. Specific procedural information (echo findings), pertinent sedation information, and/or patient dismissal instructions must be documented.
+- Assess the patient’s status post-procedure
+- Vital signs
+- Oxygen Saturation
+- Level of consciousness (RASS)
+- Pain Assessment
+- Mayo Modified Discharge Score
+- Assess and document discharge criteria (see Mayo Modified Discharge Scoring tool):
+- Cardiovascular function and airway patency are stable relative to the pre-procedure status.
+- The patient is easily arousable and protective reflexes are intact.
+- If the patient has met discharge criteria but is being transferred to an inpatient unit, notice from the post-sedation area to the next care area should occur.
+- If reversal agents are administered (e.g. naloxone, flumazenil, etc.), observation should continue until discharge criteria are clearly met and the potential for patient re-sedation has passed.
+- Dismissal
+- Observe patients who received moderate sedation until post sedation discharge criteria are met using the Mayo Modified Discharge Scoring tool and document in the medical record.
+- Discharge patients who have received moderate sedation from the area in the company of a responsible adult.
+- Discharged patients should be accompanied by a responsible adult.
+
+---
+
+# Related Documents
+
+- Mayo Clinic Sedation Home
+- Adult Moderate Sedation Procedure
+
+# References
+
+- Mayo Clinic Echo Lab Website
+- IAC-Echocardiography Standards
+- ASE Guidelines
+
+Created: 2019
+
+Revised: 07/2021 to include IAC Standards and Guidelines updates
+
+---
+
+# Inpatient/Outpatient/ Hospital-Based Outpatient, Adult/Pediatric Protocol Reference Document
+
+# Topical Lidocaine (Xylocaine®) Administration for Transesophageal Echocardiogram
+
+# INCLUSION CRITERIA:
+
+- Patient is undergoing a transesophageal echocardiogram.
+- Patient is undergoing a Watchman™ procedure.
+
+If any box checked, proceed to Exclusion Criteria Section. If no box checked the protocol does not apply.
+
+# EXCLUSION CRITERION:
+
+- Patient has an allergy to Lidocaine (Xylocaine®), Lidocaine/Prilocaine (EMLA®), or any AMIDE type local anesthetics such as:
+- - Mepivacaine (Carbocaine®, Polocaine®)
+- Prilocaine (Citanest®)
+- Bupivacaine (Marcaine®, Sensorcaine®)
+- Dibucaine (Nupercainal®)
+- Etidocaine (Duranest®)
+
+Patient weight is less than 11 kg.
+
+If no boxes checked, proceed to Medication Section. If any box checked, protocol does not apply. Provider input required.
+
+# MEDICATIONS:
+
+Lidocaine 5% oral ointment, 1 inch on tongue blade. Place ointment side down in back of mouth, as far back as possible.
+
+Instruct patient to swallow any dissolved ointment. After 2–3 minutes, check gag reflex. May repeat once if gag reflex remains.
+
+Administer first dose within 10 minutes of expected physician arrival to procedure.
+
+Rev. 6/2021
+
+©2021 Mayo Foundation for Medical Education and Research. All rights reserved.
+
+---
+
+# PROTOCOL: LV FUNCTION
+
+# Inclusion Criteria
+
+- Recommendation to focus on LV function.
+- Full echocardiogram performed within two years. If significant pathology present on prior echo, perform additional imaging as warranted.
+- Confer with ACS or physician if you have questions.
+
+# EIMS Data
+
+Procedure Components: 2D, 3D, Color Flow Doppler, Doppler, TDI
+
+Serial Studies: General + any other applicable studies
+
+First Finding: Echocardiogram performed per left ventricular function protocol
+
+Second Finding: Last full echocardiogram performed date_ (import if previous if present).
+
+Billing Diagnosis: Variable (enter echo findings, patient symptoms, physical exam, etc.)
+
+Procedure: (TTE) 2D ECHO DOPPLER COLOR
+
+# Obtain the following:
+
+| |2D|CFI|Doppler|Measurement|
+|---|---|---|---|---|
+|Apical|4 CH/LAX/2 CH MV (4/LAX/2)|Mitral inflow|Apical SAX TV (4ch)|Medial e’|
+| | | |RV focused view AV (LAX)|TR velocity|
+| | | | |LVOT TVI†|
+|Subcostal (pt. on side)|IVC| | | |
+
+STOP HERE if LV Volumes provided diagnostic SV & EF and if Regionals and Color were well visualized..
+
+Parasternal …if necessary, image the following only as needed…
+
+|SAX RWMA-base/mid/apex|if needed|if needed| | |
+|---|---|---|---|---|
+|LV EF & RWMA| | |LVIDs/d|LVOTd†|
+
+* 2D biplane volumes may be used if 3D is unobtainable or nondiagnostic
+
+Have a low threshold for the use of myocardial enhancement imaging to improve quality of biplane images
+
+†Previous LVOT diameter may be used if serially consistent
+
+# Caveats and Tips
+
+- See the Mayo Diastolic Function Guideline for interpretation of diastolic function parameters
+- If regurgitation worsens ≥ two grades, perform comprehensive regurgitation assessment
+- Discuss incidental findings with interpreting consultant
+- EF Only requested by cardiovascular consultant, see EF Only Protocol
+
+E. Skroch, D. McCullough, Dr. Kane
+
+Last revised: 01/13/2023
+
+---
+
+# PROTOCOL: MV REPAIR FOLLOW-UP, 1-3 MOS.
+
+# Inclusion Criteria
+
+- Patient is 1-3 months status post mitral valve repair (MitraClip, open or robotic)
+
+# EIMS Data
+
+Procedure Components: 2D, 3D (if used), Color Flow Doppler, Doppler
+
+Serial Study: General, Mitral Valve Repair
+
+First Impression: Echocardiogram performed per mitral valve repair follow-up protocol (freeform).
+
+Billing Diagnosis: Repair Mitral Valve Status Post
+
+Performable: (TTE) 2D ECHO DOPPLER COLOR
+
+# Obtain the following:
+
+|2D|CFI|Doppler|Measurement|
+|---|---|---|---|
+|Parasternal|LV EF & RWMA|RV size / fx|MV LAX and SAX|
+| |TR velocity|LVIDd/s|MV LAX and SAX (inflow)|
+| |Asc. Aorta|r/o pericardial effusion| |
+|Apical|LV EF & RWMA|MV (4ch, lax, 2ch)|MV gradient|
+| |RV size / fx|TR velocity|LV volumes (2D or 3D)|
+| |r/o pericardial effusion|*PISA if ≥ moderate MR| |
+|Subcostal|IVC|Atrial septum (s/p MitraClip only)|r/o pericardial effusion|
+
+# Omit the following:
+
+- Wall thickness
+- AV
+- TV
+- PV
+- Diastology (excluding LA volumes)
+- Cardiac output
+- All TDI
+- CFI of atrial septum
+- Abdominal aorta
+- SSN window
+
+# Caveats and Tips
+
+- Parasternal: Ascending aorta view is required to rule out hematoma
+- Apical: LV outflow gradient if SAM (do not Valsalva)
+- *Apical: Perform PISA If MR appears ≥ moderate and determine mechanism of MR
+- Subcostal: assess LV and RV size and function if not well seen in other windows
+- Discuss incidental findings with interpreting consultant
+
+L. Elvert / Dr. Michelena
+
+Last revised: 10/17/2017
+
+---
+
+# Adult Comprehensive Transthoracic Echocardiography (TTE) Protocol
+
+# Content Applies To:
+
+All Mayo Clinic Echocardiography Laboratories
+
+# Scope
+
+This protocol is to be used as a guideline for Echo Lab Staff performing TTE procedures in all Mayo Clinic Echocardiography Laboratories.
+
+# Purpose
+
+This protocol is intended to provide the minimum components of a standard transthoracic echocardiogram. Practice guidelines for complete and/or focused exams for specific referral diagnoses or findings may be found on the Mayo Clinic Echo Lab web page.
+
+# Protocol
+
+# Indications
+
+# Standard Views/Guidelines
+
+The images do not need to be obtained in the order listed below. The examination should be performed in a methodical fashion although the order of imaging plane acquisitions and Doppler may vary so as to answer the question at hand in an expeditious fashion. It is also recognized that imaging characteristics of individual patients may preclude certain views and measurements.
+
+Contrast is indicated for use when two or more segments cannot be visualized adequately for the assessment of LV function (LVEF and regional wall motion assessment) and/or in settings in which the study indication requires accurate analysis of regional wall motion. If a contrast agent cannot be used for technical reasons or if contrast is contraindicated, the report must include a comment suggesting alternative imaging.
+
+# Standard 2D Views
+
+1. Parasternal long axis view
+2. Parasternal short axis views (at the level of the aortic valve, left ventricle at the basal, mid and apical levels)
+3. Ascending aorta view
+4. Right ventricular inflow view
+5. Right ventricular outflow view
+6. Apical four-chamber view
+7. Apical two-chamber view
+8. Apical five-chamber view
+9. Apical long axis view
+10. Dedicated apical right ventricular view
+11. Subcostal four chamber view
+12. Subcostal short axis view (when indicated)
+13. Subcostal IVC/hepatic vein view
+14. Long and/or short-axis views of the abdominal aorta to the level
+
+---
+
+# 15. Suprasternal notch view
+
+# 16. Right parasternal view (when indicated)
+
+# 2-D, 3D, or M-Mode measurements of the left heart
+
+1. Left ventricular internal dimension and/or volume at end-diastole
+2. Left ventricular internal dimension and/or volume at end-systole
+3. Left ventricular posterior free wall thickness at end-diastole
+4. Ventricular septal thickness at end-diastole
+5. LVOT diameter
+6. Aortic root dimension or ascending aorta dimension at end-diastole
+7. Left atrial volume index at end-systole
+
+# Standard Doppler flow evaluations
+
+1. Four cardiac valves – forward flow spectra for each valve, and any regurgitation, shown in at least two imaging planes with color Doppler
+2. Expanded assessment of any valve with suspected > mild disease with and without color flow Doppler
+3. Use non-imaging Doppler Transducer to assess stenotic valves, valvular regurgitation or whenever indicated
+4. LV Diastolic function assessment using a combination of pulsed-wave Doppler and tissue Doppler methods
+5. Tricuspid regurgitation spectrum must always be sought with CW Doppler from multiple views for estimation of systolic right ventricular pressure when tricuspid regurgitation is present
+6. Atrial and ventricular septa – color Doppler screening for defects
+7. Left ventricular outflow tract velocity and TVI
+8. Hepatic and pulmonary vein flow spectra (when indicated)
+9. For aortic stenosis, the systolic velocity must be evaluated from multiple transducer positions (e.g., apical, suprasternal, right supraclavicular, and right parasternal). This must include interrogation from multiple views with a dedicated non-imaging continuous wave Doppler transducer (at least one clear envelope must be obtained).
+
+# Related Documents
+
+- Mayo Clinic Echocardiography Laboratory Clinical Protocols
+- Mayo Clinic Echocardiography Laboratory Standardized Measurements
+
+# References
+
+- Oh J.K., Kane, G.K., Seward J.B., Tajik A.J. (2019). The Echo Manual (4ᵗʰ ed.). Philadelphia: Walters Kluwer.
+- Mayo Clinic Echo Lab Website
+- IAC-Echocardiography Standards
+- ASE Guidelines
+
+Created: 2019
+
+Revised: 07/2021 to include IAC Standards and Guidelines updates
+
+---
+
+# PoOcoLSUN Study
+
+# Protocol Hunt Study
+
+# Inclusion Criteria
+
+- Appointment type of ‘TTE Shunt’ or ‘PHTN WITH SHUNT’
+- Study ordered to rule out intracardiac or intrapulmonary shunt
+- Referral of:
+- Hereditary Hemorrhagic Telangiectasia (HHT) regardless of whether the patient has had a prior shunt study and regardless of whether the result was positive or negative. Also perform PHTN protocol
+- Pre-device lead extraction to evaluate for risk of thrombus crossing an intracardiac defect during extraction
+- Suspected stroke or cardiac source of embolism where intra-cardiac shunting may be considered*
+- Advanced liver disease including cirrhosis (risk of hepatopulmonary syndrome) refer to the liver disease shunt protocol
+
+# Instructions
+
+# VALSALVA – Perform 1st
+
+1. Instruct patient in the performance of the Valsalva maneuver
+2. Obtain a 4 chamber view in the following order:
+1. Instruct patient in the performance of the Valsalva maneuver
+2. Obtain a 10-15 beat clip of the 4 chamber view in the following order:
+3. Stop respiration with a held breath at neither inspiration nor expiration
+4. Instruct patient to Valsalva and hold strain
+5. Inject agitated saline
+6. Valsalva strain until the right heart is opacified
+7. Release Valsalva and ensure that images acquired include at least 8 beats after Valsalva is released
+
+# REST – Perform 2nd
+
+Obtain a long clip of the 4-chamber view with agitated saline injection
+
+# Caveats and Tips
+
+- Perform Valsalva on all shunt studies (including those to rule out intrapulmonary shunt)
+- Sensitivity is enhanced with multiple injections. In stroke patients, perform 2-3 Valsalva saline injections (or more if patient’s age is &lt; 55)
+- Use harmonic imaging
+- Zoomed view of the atrial septum and pulmonary veins may help determine location of shunt
+- Other patient positioning (sitting upright, standing, squat-to-standing) should be done as clinically indicated for diagnoses such as platypnea-orthodeoxia syndrome
+
+PFO/ASD: visible in 1-3 beats
+
+Intrapulmonary: visible in 4-8 beats
+
+Page 1 of 2 Last Revised: V. Jones / Dr. Lin 06/28/2023
+
+---
+
+# PROTOCOL: SHUNT STUDY, CONT.
+
+# EIMS & Epic Data
+
+# Epic
+
+Procedure: select the ‘with contrast’ option
+
+# EIMS
+
+Procedure Components: IV Agitated Saline
+
+# Impressions:
+
+- Patients with right-to-left shunt and known or suspected stroke
+1. Add “Patent Foramen Ovale” statement (under shunts, Patent Foramen Ovale)
+2. Modifiers:
+- a. Direction of shunt
+- b. Number of microbubbles seen in left heart chambers (&lt;30 or ≥30)
+- Patients with unexplained RV enlargement, pulmonary hypertension, or hypoxia
+1. Add “no right to left shunt” or “right to left shunt” (under TEE, atrial septum/shunts folder). If shunt is present, note whether it is early or late. Suggestion of shunt location is at your discretion.
+2. Use the following grading scale:
+
+|Agitated Saline Right-Left Shunts|Echocardiographic Microbubbles|
+|---|---|
+|Normal|The Lioc Lv|
+|Trivial|Few Microbubbles Visualized the LA or LV (no more than 10)|
+|Grade (mild)|Modest number|
+|Grade (moderate)|the LA or LV with <50% of the comparable density RA or RV|
+|Grade (severe)|with 250% comparing density RA or RV|
+
+See 9/22/2021 CIGR with Dr. Reeder for more information: https://videoexchange.mayo.edu/media/Cardiac+Imaging+Grand+Rounds+-+September+22%2C+2021/1_0g4es2s9/16905081
+
+Page 2 of 2 Last revised: V. Jones / Dr. Lin 6/28/2023
+
+---
+
+# Screening TEE Prior to Transcatheter Mitral Edge-to-Edge Repair (TMVr, e.g. MitraClip)
+
+- Specific goals for Screening TEE Prior to Edge-to-Edge Repair (TMVr):
+- Assess anatomic suitability for TMVr
+- Exclude intra-cardiac thrombus
+- Evaluate the atrial septum prior to transseptal puncture
+- Assess/confirm the severity of mitral regurgitation (frequently determined on TTE)
+- Assess feasibility of peri-procedural imaging (adequate windows for grasping/guidance)
+- Required images (in addition to standard TEE):
+- 3D full volume or 3D zoom of the mitral valve with and without color Doppler
+Should include the entire mitral annulus and a portion of the aortic valve
+- CW Doppler of the mitral valve inflow for mean diastolic gradient
+- Pulmonary vein spectral Doppler of all pulmonary veins
+
+# Measurements/Impressions to Report (see pages 2-4 for examples)
+
+- Mechanism of mitral regurgitation (primary, secondary, mixed)
+- Location of the regurgitant jet(s) (A1-P1, A2-P2, A3-P3)
+- Severity of regurgitation (frequently established by TTE)
+- The presence and location of mitral annular or leaflet calcification
+- Calcification at the grasping site can prohibit clip/device closure and is a contraindication
+- Mitral annular calcification, particularly when leaflet infiltration is present, is associated with increased post-procedure mean gradient
+- Mitral valve orifice area (preferably by 3D-guided planimetry)
+- A baseline mitral valve area <4.0 cm2 is associated with high risk of mitral stenosis post-clip
+- Mitral valve mean diastolic gradient
+- Baseline mean diastolic gradient ≥4mmHg is associated with elevated gradient post-clip
+- Presence/absence of mitral valve clefts or perforations should be noted
+- A mitral valve perforation is a contraindication to edge-to-edge repair
+- Baseline functional clefts are likely a relative contraindication
+- Anterior and posterior mitral leaflet length: ideally 10 mm or more
+- Specific measurements for patients with flail leaflet:
+- Flail GAP (i.e. the max distance between the anterior and posterior leaflet, ideally <10mm)
+- Flail WIDTH (i.e. the width of the flail segment along the affected leaflet, ideally <15mm)
+- Statement on the atrial septum and suitability of transseptal puncture
+
+J. Thaden/B. Kietselaer 1-11-2023
+
+Page 1
+
+---
+
+# Anatomic Suitability for Edge-to-Edge TMVr (MitraClip)
+
+|Segment|Feasible|Unlikely|
+|---|---|---|
+|Transcatheter Mitral Valve Repair|2|1 or 3|
+|Severe Barlow Calcification|None|Annular-sparing grasping zone|
+|MVA and MV Gradient|< 4 mm Hg|3.5-4 cm? and < 3.5 cm? and > 5 mm Hg|
+|Flail width|< 15 mm|> 15 mm|
+|Flail gap|< 10 mm|> 10 mm|
+|PL length|> 10 mm| |
+
+Adapted from El Sabbagh et al JACC 2018.
+
+# Flail Gap and Flail Width
+
+|Flail Gap|Flail Width|
+|---|---|
+|Ojhz 137 180|OJAZ 9.0 cm|
+|2D 55%|59% 6 C 50|
+|P Off Gen|P Off Gen|
+|PEE T: 37 °C|PEET: 389 € 38.3 °C|
+|Dist 0.774 cm|Dist 1.67 cm|
+
+Maximum distance between the anterior and posterior leaflet in any view.
+
+Maximum width of the flail segment, typically measured in the midesophageal commissural view (shown above) or transgastric short axis view.
+
+J. Thaden/B. Kietselaer 1-11-2023
+
+---
+
+# 3D-Guided Planimetry of Mitral Valve Area
+
+| |Areals)|OAl|Area|3.63 cm²|
+|---|---|---|---|---|
+|Circ|7.84 cm| | | |
+
+# Keys:
+
+- Pause in a diastolic frame at the time of maximal mitral valve opening
+- Align one view in a typical long axis view (upper left panel)
+- Align one view in a typical commissural view (upper right panel)
+- Align the blue lines with the tip of the mitral leaflets for short axis view of the mitral valve (lower left panel)
+- Trace the mitral valve orifice area in the short axis view (lower left panel)
+
+# Mitral Leaflet and Annular Calcification
+
+MAC, particularly with mitral leaflet infiltration (arrow) increases the risk of mitral stenosis post-clip. Mitral leaflet calcification at the grasping site may also inhibit clip/device closure.
+
+J. Thaden/B. Kietselaer 1-11-2023
+
+Page 3
+
+---
+
+# Mitral Leaflet Perforation
+
+A 3D TEE left ventricular view of the mitral valve shows perforation of the anterior mitral leaflet by 3D (left, arrow) and confirmed by 3D color Doppler (right, arrow). Leaflet perforation is a contraindication to TMVr.
+
+J. Thaden/B. Kietselaer 1-11-2023
+
+Page 4
+
+---
+
+# HCM MAVACAMTEN
+
+# PROTOCOL ACH
+
+The prescription drug, mavacamten (CAMZYOS), is indicated for the treatment of adults with symptomatic NYHA class II-III obstructive hypertrophic cardiomyopathy to improve functional capacity and symptoms. In trials, 4-11% of patients had a transient decrease of LVEF < 50%.
+
+# Inclusion Criteria
+
+- Patient receiving mavacamten treatment for hypertrophic cardiomyopathy. Typically, echocardiographic monitoring is required at weeks 4, 8, 12, and every 12 weeks thereafter.
+- Patients will have an echocardiogram performed prior to drug initiation. While the patient is on mavacamten this protocol should be performed indefinitely (regardless of when their last comprehensive echo was performed).
+
+# EIMS Data
+
+Procedure Components: 2-D Limited, Color Flow Doppler, Doppler Limited, TDI (Tissue Doppler Imaging)
+
+Serial Study: General, HCM
+
+First Finding: Echocardiogram performed per Hypertrophic Cardiomyopathy [# month mavacamten] protocol.
+
+Second finding: Last full echo performed…
+
+Performable: (TTE) 2D Limited with Limited Doppler
+
+|2D|CFI|Doppler|2D Measure|
+|---|---|---|---|
+|Parasternal|LV fx & RWMA| |LVID d/s|
+|Apical|Mitral inflow: E, A, DT|*LV fx & RWMA|MR (4ch)|
+| |Medial e’|LV Volumes (3D preferred, or 2D)| |
+|RV fx|TR velocity (best window)| | |
+|Subcostal|IVC| | |
+
+# Caveats and Tips
+
+- *LV fx: it is not necessary to analyze global longitudinal strain, but please acquire apical views with a similar depth, width, & frame rate in the event that speckle tracking strain is performed at a later date.
+- **LVOT MIG: assess at rest. If the resting gradient is <50 mmHg proceed with Valsalva, if the Valsalva gradient is <50 mmHg proceed with squat-to-stand. Amyl nitrite is not necessary.
+- The following measurements must be documented in measurements or findings: LVEF, LVOT MIG rest, LVOT MIG Valsalva/squat-to-stand (if performed).
+- Image enhancement agent is typically not indicated unless unable to determine LVEF without.
+
+V. Jones / Drs. Geske, Newman, and Ommen Last Revised: 05/18/2023
+
+---
+
+# VA ECMO PROTOCOL WEAN
+
+# Inclusion Criteria
+
+• Study indication is VA ECMO wean
+
+# EIMS Data
+
+Procedure Components: 2-D, Color Flow Doppler, Doppler Limited, +/- 3-D, Strain
+
+Serial Study: General
+
+First Finding: Echocardiogram performed per VA ECMO wean protocol.
+
+Billing Diagnosis: ECMO VA
+
+Procedure: (TTE) 2D Limited with Color and Doppler
+
+Charge Capture: Myocardial Strain - Hospital
+
+# BASELINE AND LOWEST FLOW
+
+| |2D|CFI|Doppler|2D Measurement|
+|---|---|---|---|---|
+|Parasternal|LV EF & RWMA|AR|LVID d/s if biplane or 3D LVEF are not feasible|AV opening/function|
+|Apical|LV EF & RWMA|MR|LVOT TVI*|RV – LV – volumes / EF|
+| |RV size / fx|TR|Lateral mitral s’|RV – strainƗ or RV s’ & TAPSE|
+| | | |3D volumesƗ or area d/s| |
+
+# EACH STAGE OF WEAN
+
+| |2D|CFI|Doppler|2D Measurement|
+|---|---|---|---|---|
+|Parasternal|LV EF (visual) & RWMA| | | |
+|Apical|LV EF (visual) & RWMA|MR|LVOT TVI| |
+| |RV size / fx (visual)|TR| | |
+
+# Caveats and Tips
+
+• Echo consultant must be present at the bedside during ECMO wean
+
+• ECMO wean stages are typically baseline, 75%, 50%, 25%, 1L, off (if patient will tolerate)
+
+• Please annotate ECMO flow rate and inotropes at each stage of weaning
+
+V Jones, YW Wong / CPC Approved 11.2023
+
+---
+
+# Predicting Outcomes in VA ECMO
+
+|Criteria|Favorable|Unfavorable|
+|---|---|---|
+|LVEF|LVEF > 20%-25%|LVEF < 20%|
+|LVOT VTI|VTI ≥ 10cm|VTI < 10cm|
+|Lateral mitral S’|≥ 6-8cm/s|< 6cm/s|
+|RVEF/RV FAC|Unchanged or improved with weaning|Lower RVEF/ FAC with weaning|
+
+V Jones, YW Wong / CPC Approved 11.2023
+
+---
+
+# PROTOCOL: SARCOIDOSIS
+
+Sarcoidosis - collections of tiny inflammatory cells (granulomas).
+
+# Cardiac manifestations:
+
+- RWMA (non-coronary distribution)
+- LV wall thinning and aneurysms
+- cardiomyopathy
+- systolic/diastolic dysfunction
+- PHTN
+- rhythm disorders
+
+# Inclusion Criteria
+
+- Patient with sarcoid diagnosis (any organ)
+- Patient being seen in the sarcoidosis clinic
+- Consider in patients with unexplained advanced rhythm abnormality (2ⁿᵈ, 3ʳᵈ block, VT)
+
+# EIMS Data
+
+Procedure Components: 2-D, Doppler, Color Flow Doppler, Strain Imaging
+
+Serial Studies: General, Strain Imaging
+
+First Finding: Echocardiogram performed per sarcoidosis protocol.
+
+Billing Diagnosis: Sarcoidosis, echo abnormalities, or patient symptoms
+
+Procedure: (TTE) 2D Echo Doppler Color
+
+Charge Capture: Myocardial Strain - Hospital
+
+# Obtain the following if the last echo was:
+
+- ≥ 2 years → full echo + LV & RV longitudinal strain
+- < 2 years → if the patient’s only cardiovascular concern is sarcoidosis, obtain the limited protocol (below) indefinitely. If patient is being evaluated for other cardiac or vascular diagnoses, perform a full echo if one has not been performed within the last 2 years.
+
+|2D|CFI|Doppler|Measurement| | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+|Parasternal|LV EF & RWMA|MV (LAX)|TR velocity|LV wall thickness| |LVIDd/s| | | |
+|Apical|LV EF & RWMA|AV (LAX)|TR velocity|LV strain|RV size / fx|MV (4ch)|LVOT tvi|RV strain|TV (4ch)|
+|Subcostal|4 ch|IVC| | | | | | | |
+
+# Caveats and Tips
+
+- Consider contrast if necessary to assess for regionals.
+- Consider 9-zone lung ultrasound if RVSP ≥ 30 mmHg.
+
+C. Luoma/ Drs. T. Foley and K. Young
+
+Last Revised: 10/25/2023
+
+---
+
+# PROTOCOL: POST PFO DEVICE CLOSURE
+
+# Inclusion Criteria:
+
+Select patients may return for echo imaging the same day, one day, or 3-6 months post procedure for PFO device closure. Protocol not intended for ASD closure!
+
+- Most one or same day echoes will be performed at point of care by the procedural fellow. On occasion, a formal echo may be requested.
+- For patients with no prior Mayo TTE/TEE there is NO need to do a full echo – continue to follow this protocol (all patients have had an echo either at Mayo or an outside TTE/TEE that was read by the referring Cath Lab physician).
+
+# EIMS Data:
+
+Referral Diagnosis: under Post-op procedure congenital ht dis, add: Patent foramen ovale S/P closure with appropriate drop down
+
+First Finding: Status post interventions – closure device – pick all applicable findings (coded)
+
+Second Finding: Echocardiogram performed per post PFO closure device (coded)
+
+Billing Diagnosis: Closure Patent Foramen Ovale Status Post
+
+|Same or 1 day post|3-6 months post|
+|---|---|
+|Procedure Components:|Procedure Components:|
+|2-D limited|2-D limited, IV Agitated Saline|
+|Procedure:|Procedure:|
+|(TTE) 2D Limited Only|(TTE) 2D Limited Only and Contrast|
+|Obtain the following:|Obtain the following:|
+|Same or 1 day post (2D only)|3-6 mos. post (2D + Shunt Study)|
+|Parasternal|Device location (SAX)|
+|Device location (SAX)|Pericardial effusion|
+|Apical|Device location (4 ch)|
+|Device location (4 ch)|Pericardial effusion|
+|Subcostal|Device location (4 ch)|
+|Device location (4 ch)|Shunt study (4 ch) (*Valsalva Rest)|
+| |Valsalva images before rest images|
+
+M. Bartosh / Dr. Reeder
+
+Last revised: 06/28/2022
+
+---
+
+# Inpatient/Outpatient/hospital-Based Outpatient, Adult Protocol Reference Document
+
+Applies to patients 18 years of age and older, in RST/SWWI/NWWI/SEMN/SWMN/AZ/FL
+
+# Echocardiography Laboratory: Ultrasound Enhancement Agent Administration
+
+# Screening: Ultrasound Enhancement Agent/Echo Contrast
+
+Reason for contrast identified by sonographer or ordering provider:
+
+(Select All That Apply)
+
+- To opacify the left ventricular chamber.
+- To enhance endocardial border definition.
+- To assess for cardiac mass/thrombus.
+- To assess myocardial perfusion.
+- To enhance Doppler signals.
+
+If any box checked, proceed to the Contrast Screening section.
+
+If no boxes checked, protocol does not apply.
+
+# CONTRAST SCREENING SECTION:
+
+Establish intravenous access if not already established.
+
+1. Perflutren Protein-type A Microspheres (Optison®) is available.
+
+No – Proceed to Question B below.
+
+Yes – Proceed to Perflutren Protein-type A Microspheres (Optison®) Eligibility questions
+
+# Perflutren Protein-type A Microspheres (Optison®) Eligibility: (Select All That Apply)
+
+- Allergy or hypersensitivity to Perflutren Lipid Microsphere (Definity®) Sulfur Hexaflouride Lipid-type A Microspheres (Lumason™) or Polyethylene Glycol (PEG)
+- A diagnosis of sickle cell anemia.
+
+If any box is checked proceed to the Perflutren Protein-type A Microspheres (Optison®) screening. If no box is checked proceed to question B.
+2. B. Sulfur Hexafluoride Lipid-type A Microspheres (Lumason™) is available.
+
+No – Proceed to Perflutren Lipid Microsphere (Definity®) Screening section.
+
+Yes – Proceed to Sulfur Hexafluoride Lipid-type A Microspheres (Lumason™) Eligibility questions.
+
+# Sulfur Hexafluoride Lipid-type A Microspheres (Lumason™) Eligibility: (Select All That Apply)
+
+- Exercise stress echocardiogram.
+- Transthoracic Echocardiogram (TTE) performed on an inpatient.
+- Perflutren Lipid Microsphere (Definity®) is contraindicated.
+
+©2022 Mayo Foundation for Medical Education and Research. All rights reserved.
+
+---
+
+# Perflutren Protein-type A Microspheres (Optison®) Screening Section:
+
+Patient reports:
+
+- Allergic or hypersensitivity to Perflutren Protein-type A Microspheres (Optison®).
+- Refuses to use Perflutren Protein-type A Microspheres (Optison®).
+- A prior transfusion reaction to blood, blood products or albumin.
+
+If any box checked, protocol does not apply.
+
+If no boxes checked, administer Perflutren Protein-type A Microspheres (Optison®). Proceed to Contrast Administration Section.
+
+# Sulfur Hexafluoride Lipid-type A Microspheres (Lumason™) Screening Section:
+
+Patient reports:
+
+- Allergic or hypersensitivity reaction to Sulfur hexafluoride lipid microspheres (Lumason™).
+- Refuses to use Sulfur hexafluoride lipid microspheres (Lumason™).
+
+If any box checked, protocol does not apply.
+
+If no boxes checked, administer Sulfur Hexafluoride Lipid-type A Microspheres (Lumason™). Proceed to Contrast Administration Section.
+
+If Sulfur hexafluoride lipid microspheres (Lumason™) is not available, go to the Perflutren Lipid Microsphere (Definity®) Screening section.
+
+# Perflutren Lipid Microsphere (Definity®) Screening Section:
+
+Patient reports:
+
+- Allergic or hypersensitivity to Perflutren Lipid Microsphere (Definity®).
+- Refuses to use Perflutren Lipid Microsphere (Definity®).
+
+If any box checked, protocol does not apply. Notify supervising echo physician.
+
+If no boxes checked, administer Perflutren Lipid Microsphere (Definity®). Proceed to Contrast Administration Section.
+
+# CONTRAST ADMINISTRATION SECTION:
+
+Sulfur hexafluoride lipid microspheres (Lumason™) administration instructions:
+
+1. Reconstitute the Sulfur hexafluoride lipid microspheres (Lumason™) by injecting 5 mL sodium chloride 0.9% into the Lumason™ vial and shake vigorously for 20 seconds. Draw the 5 mL suspension into a syringe.
+2. Administer 1 mL Sulfur hexafluoride lipid microspheres (Lumason™) IV.
+3. Slow flush IV with 1 mL of 0.9% sodium chloride.
+4. May repeat administration of 1 mL Sulfur hexafluoride lipid microspheres (Lumason™) as needed for adequate images for a maximum dose of 10 mL Sulfur hexafluoride lipid microspheres (Lumason™).
+5. Slow flush IV with 1 mL 0.9% sodium chloride following each administration of Sulfur hexafluoride lipid microspheres (Lumason™).
+
+©2022 Mayo Foundation for Medical Education and Research. All rights reserved.
+
+---
+
+# Perflutren Protein-type A Microspheres (Optison®)
+
+1. Administer 0.5 mL IV push over 10 seconds.
+2. Flush with 3 mL of 0.9% sodium chloride.
+3. May repeat steps 1 and 2 until optimal images are obtained (not to exceed 5 mL in any 10 minute period with a maximum dose of 8 mL per study).
+
+# Perflutren Lipid Microsphere (Definity®)
+
+Standard Concentration: to be administered for inclusion criteria that does not include an indication of myocardial perfusion.
+
+1. Activate Perflutren Lipid Microsphere by shaking the vial for 45 seconds using a Vialmix®.
+2. Draw up contents of vial into 10 mL syringe with 8.5 mL of 0.9% sodium chloride for a total of 10 mL.
+3. Administer 0.5 mL IV push of the diluted solution.
+4. Immediately flush with 3 mL 0.9% sodium chloride over 10 seconds.
+5. May repeat steps 3 and 4 until images are optimal or for a total of 10 mL of diluted solution being administered.
+
+# Perfusion Concentration via IV Syringe Pump
+
+1. Activate Perflutren Lipid Microsphere by shaking the vial for 45 seconds using a Vialmix®.
+2. Draw up 58.5 mL of preservative free 0.9% Sodium Chloride in a 60 mL syringe.
+3. Draw up contents of activated vial into the 60 mL syringe.
+4. Mix gently.
+5. Place syringe into syringe pump and give a 2 mL bolus of solution followed by a continuous infusion rate of 50 mL/hr.
+6. Rock syringe pump once during the 3 minute state to resuspend the Definity.
+
+Contrast administered per Echocardiography Laboratory Contrast Administration Protocol.
+
+• Discontinue intravenous access if no further testing and if patient is outpatient status.
+
+3 2220000124 Rev 04/14/2022
+
+©2022 Mayo Foundation for Medical Education and Research. All rights reserved.
+
+---
+
+# RST ULTRASOUND ENHANCEMENT AGENT
+
+This document serves as a reference guide for the protocolized administration of echo ultrasound enhancement agent without a new/different order for the Rochester and Rochester Outreach practice. Details are given in the Echocardiography Laboratory: Ultrasound Enhancement Agent Administration Protocol Reference Document.
+
+# Inclusion Criteria
+
+- Patient determined to require an ultrasound enhancement agent
+
+# EIMS Data
+
+Procedure Components: IV Contrast Agent, IV Start
+
+Documentation: Ultrasound enhancement agent administered and reason statement (misc. folder)
+
+Performable: Appropriate contrast bundle
+
+# Contrast Agents
+
+|Patient determined to require UEA|YES|
+|---|---|
+|NO| |
+|Patient has:| |
+|1. Prior allergic reaction to PEG, Definity; or Lumason?|Definity|
+|2. Diagnosis of sickle cell anemia?|Optison*|
+|If Optison not available, no contrast given:| |
+
+# Comments:
+
+- *See echocardiography laboratory Definity Script and Optison Script for suggested language to obtain consent and review relevant patient allergies prior to proceeding
+- For a contrast agent to be available per this protocol the agent must be stocked and the staff trained in its administration and imaging
+- Although not covered by the protocol reference document, if the patient is under the age of 18 years an order from the supervising echo consultant is required
+- The Echo consultant may order an alternate agent
+
+S. Pronga, Dr. Kane, Dr. Thaden
+
+Last revised: 08/22/2024
+
+---
+
+# PROTOCOL: ANNUAL HEART TRANSPLANT
+
+# Inclusion Criteria
+
+- Patient with heart transplant presenting for routine yearly follow-up
+- If question of acute rejection or presenting earlier than their yearly echo, perform:
+- LV function protocol + LV wall thickness + LV Strain
+
+# EIMS Data
+
+# Procedure Components:
+
+2-D, 3-D, Color Flow, Doppler, M-Mode, Strain Imaging
+
+# Serial Study: General
+
+- First Finding: Echocardiogram performed per heart transplant protocol.
+- Second Finding: Status post heart transplant (date).
+- Procedure: (TTE) 2D Echo Doppler Color
+- Charge Capture: Myocardial Strain – Hospital
+- Billing Diagnosis: Transplant Heart
+
+# Obtain FULL TTE, PLUS the following:
+
+|2D|CFI|Doppler|Measurement|
+|---|---|---|---|
+|Parasternal|Asc Ao (suture line)|Asc Ao (suture line)|† Gradient if LV wall thickness|
+| |PA (suture line)|PA (suture line)|† turbulent flow†|
+|Apical|TV Zoom|TV gradient|LV – Strain|
+| | |(if repair)|RV diameter – base, mid, length|
+| | | |RV – area d/s|
+|Subcostal and RSC| | |HV|
+
+† If turbulent color flow noted near the main PA or aortic anastomosis, obtain CW Doppler profile
+
+# Caveats and Tips:
+
+- Always measure: left ventricular wall thickness
+- Always exclude: LA volumes
+- Perform side-by-side comparison to prior study if available (especially in setting of pericardial effusion)
+
+Martineau, M./Dr. Chen                                                     Revised: 11/03/2023
+
+---
+
+# Intra-Procedure TEE during WATCHMAN device deployment
+
+# 1. Pre-implant LAA images:
+
+Exclude: intracardiac thrombus or dense spontaneous echo contrast
+
+significant pericardial effusion
+
+Obtaining LAA measurements to confirm anatomy conducive for Watchman device implantation and to determine the device size
+
+# Left atrial appendage anatomy:
+
+divided into 3 parts.
+
+1. The ostium is typically oval and diameters range from 10-40 mm, is well characterized by 3D imaging and is separated from the left upper pulmonary vein by the posterolateral ridge.
+2. The neck of the LAA is the tubular junction between the ostium and lobar portions, neighbors the circumflex and LAD coronaries and the sinus node artery in one third.
+3. The lobar region is the largest and most variable portion. Two or more lobes are found in >50%.
+
+# LAA images:
+
+Obtain 2D images of the LAA at decreased depth or zoom to optimize LAA assessment.
+
+Views should be obtained at 0, 45, 90 and 135 degrees
+
+Obtain the maximal measurements of the ostium diameter, width & length of the primary LAA lobe
+
+At 0 degrees, a measurement in the plane from left coronary artery to a point approximately 2 cm from the tip of the postero-lateral ridge is possible. (See diagram below)
+
+At 45, 90, 135 degrees appropriate 2D views such that a measurement in the plane from the top of the MV annulus to a point approximately 2 cm from the tip of the postero-lateral ridge is possible. (See diagrams below)
+
+|LAA width and height at 0⁰|Width and height at 45⁰|Width and height at 90⁰|Width and height at 135⁰|
+|---|---|---|---|
+|1-Zcm|1-2cm| | |
+
+G. Kane 10/12/2015
+
+Page | 1
+
+---
+
+# Intra-Procedure TEE during WATCHMAN device deployment
+
+Recommended images to be obtained: (measures of the LAA should be performed when LAA size is largest at end ventricular systole)
+
+- 2D 4 chamber, 2 chamber and 3 chamber views optimizing the LV
+- Multiple 2D imaging planes of the LA
+- Multiple 2D imaging planes of LAA device at decreased depth or zoom mode (at a minimum record views at 0°, 45°, 90° and 135°) – as described above.
+- Color Doppler of the LAA at decreased depth or zoom mode, at best angle visualized.
+- Reduce the Nyquist limit to optimize color flow (include the full width of the LAA ostium surrounding the borders and tip of LAA).
+- Pulsed wave Doppler within the LAA (sampled volume at least 1cm into the LAA);
+- 3D of the LAA ostium with diameter and area measures. Off-line measures performed in Q-lab with a similar measurement approach to the LVOT diameter measures.
+- 2D Mitral Valve w/w’out color in multiple images planes (include views such as 4ch, 3ch and 2ch)
+- CW Doppler through the mitral valve for MS
+- 2D and color Doppler of Interatrial Septum at 45°, 90° and 135°. If atrial septal aneurysm is present: measure the atrial septal total excursion and the ASA length
+- 2D of agitated saline passage to assess for intraatrial shunt
+- 2D imaging from the esophagus and / or stomach to assess for pericardial effusion
+- 2D of Ascending Aorta, Aortic Arch and Descending Aorta
+
+Use of echo contrast with low MI imaging (0.1-0.3) should be considered, as appropriate, to differentiate pectinate muscle from thrombus.
+
+# LAA Occluder Device Requirements (5 device sizes: 21, 24, 27, 30 and 33 mm)
+
+- Landing zone should be measured from the inferior part of the LAA ostium at the level of the circumflex coronary artery to a point 1-2 cm distal to the tip of the posterolateral ridge.
+- Required landing zone diameters: 17-31 mm.
+- Choice of device size: 2-4 mm larger than the largest measured diameter.
+- Required depth of main anchoring lobe: needs to be ≥ the maximum LAA ostium size to be able to implant any given size device.
+
+G. Kane 10/12/2015
+
+Page | 2
+
+---
+
+# Intra-Procedure TEE during WATCHMAN device deployment
+
+# 1. Maximum diameter at "shoulders"
+
+# 2. Imaging of the deployed device prior to device release
+
+# Check Device Position:
+
+Perform slow sweep from 0 to 135 degrees to observe device position from all views / angles.
+
+Optimal device position: The plane defined by the maximum diameter of the device should be at or just distal to the plane of the ostium in the majority of views.
+
+If device position is too proximal (significant protrusion of device into the LA), the device should be fully recaptured, removed and re-placed more distally.
+
+If device position is too distal in LAA, the device may be partially recaptured and repositioned more proximally.
+
+CAUTION: A distally placed device may leave secondary LAA lobes patent. Ensure all lobes of the LAA are covered with device. Note that some extra lobes may only be visible at multiplane angles of 90-180 degrees.
+
+# Tips for obtaining LAA images at 0 degrees:
+
+Begin in mid-esophageal view; withdraw the probe until just above the mitral valve; counter clock slightly; flex slightly; adjust the depth of the probe until the LAA is visualized; Adjust the “right-left” wheel to optimize the image.
+
+# Device Size:
+
+Measure deployed device diameter in multiple views (measure greatest device width, see image). Protocol guidelines of 8-20% final device compression apply. A calculated value of device compression which is too low or too high may require device repositioning or device resizing.
+
+“Threaded insert” must be visible when measuring on echo to ensure the device is measured at the widest cross-section in all angles.
+
+# Device Stability:
+
+A device stability check is performed by observing the appendage / device relationship in multiple views. The device and LAA should move in unison. Device movement / displacement in LAA may require device repositioning or resizing.
+
+G. Kane 10/12/2015
+
+Page | 3
+
+---
+
+# Intra-Procedure TEE during WATCHMAN device deployment
+
+# Device Seal
+
+Perform color Doppler assessment prior to the device release by interrogating the entire device /LAA border. Perform a slow sweep from 0° to 180° to fully visualize the placement of the device while performing color Doppler. Include stops at approximately 0°, 45°, 90° and 135° to record clips. Check for residual flow around the device borders.
+
+Significant flow around device edge (>5 mm in diameter) or significant flow into any uncovered secondary lobe(s) will require device repositioning or resizing. Injection of Echo contrast (with the MI index set at (0.1-0.3) may aid in assessing flow around the device. If a leak is visualized, the width of the leak should be measured at the plane of the device at the vena contracta and should exclude any color bleed over the device and/or myocardial structures.
+
+# Imaging of released device (immediately after device release)
+
+- Multiple 2D imaging planes of the LA
+- Multiple 2D imaging planes of LAA device at decreased depth or zoom mode to optimize LAA device placement (at a minimum record views at 0°, 45°, 90° and 135°).
+- Color Doppler of device at decreased depth or zoom mode, reduce the Nyquist limit to optimize color flow (include the full width of the LAA ostium surrounding the borders and tip of the appendage) (at a minimum record views at 0°, 45°, 90° and 135°).
+- Repeat color Doppler interrogation around the device borders to include the entire device/LAA border. Perform a slow sweep from 0° to 180° to fully visualize placement of the device while performing color Doppler.
+- Record PW of LAA inside (distal to) the device; optimize scale to show both antegrade and retrograde flow
+- Color Doppler of Interatrial Septum at 45°, 90° and 135°
+
+G. Kane 10/12/2015
+
+Page | 4
+
+---
+
+# Intra-Procedure TEE during WATCHMAN device deployment
+
+# Imaging of released device (immediately after device release) - continued
+
+- PW of the left upper pulmonary vein (sample volume should be at least 1cm into pulmonary vein); optimize scale to show both antegrade and retrograde flow
+- 2D Mitral Valve in multiple images planes (include views such as 4ch, 3ch and 2ch) with and without color
+- 2D imaging from the esophagus and or stomach to assess for pericardial effusion
+- 2D of Ascending Aorta, Aortic Arch and Descending Aorta
+
+G. Kane 10/12/2015
+
+Page | 5
+
+---
+
+# PROTOCOL: POST ASD DEVICE CLOSURE
+
+# Inclusion Criteria:
+
+Select patients may return for echo imaging the same day, one day, or 3-6 months post procedure for ASD closure device.
+
+# EIMS Data:
+
+Referral Diagnosis: under Post-op procedure congenital ht dis, add:
+
+- Atrial septal defect S/P closure with appropriate drop down
+
+First Finding: Status post interventions – closure device – pick all applicable findings (coded)
+
+Second Finding: Echocardiogram performed per post ASD closure device (coded)
+
+Billing Diagnosis: Closure Atrial Septal Defect Status Post
+
+# Same or 1 day post closure, follow chart below
+
+# 3-6 months post closure, obtain the following if the last echo was:
+
+- &gt; 2 years → full echo + following
+- ≤2 years → LV Function Protocol + following
+- * Add shunt study if indication for device closure was stroke or there was an interval stroke since device closure. Shunt studies are not required for other indications post-ASD device closure.
+
+|Same or 1 day post|3-6 months post|
+|---|---|
+|Procedure Components:|Procedure Components:|
+|2-D limited, Color Flow Doppler|2-D, Color Flow Doppler, Doppler, TDI, (+/- IV Agitated Saline)|
+|Procedure:|Procedure:|
+|(TTE) 2D Limited and Color|(TTE) 2D Echo Doppler Color (+/- Contrast)|
+|2D + Color|2D + Color (+/- Shunt Study)|
+|Parasternal|Parasternal|
+|Device location (SAX)|Device location (SAX)|
+|Pericardial effusion|Pericardial effusion|
+|Apical|Apical|
+|Device location (4 ch)|Device location (4 ch)|
+|Pericardial effusion|* Possible shunt study (4 ch) (Vals + Rest)|
+| |Valsalva images before rest images|
+|Subcostal|Subcostal|
+|Device location (4 ch)|Device location (4 ch)|
+|Pericardial effusion| |
+
+M. Bartosh / Drs. Anderson and Cabalka
+
+Last revised: 07/25/2022
+
+---
+
+|Question#|Question Text|Answer|Reference|
+|---|---|---|---|
+|1|I have a female patient with amyloidosis whose last echo was 5 years ago. What imaging and measurements should be obtained?|The patient should receive a full echo workup with left ventricular and right ventricular strain measurements via apical view and right ventricular wall thickness measurement via subcostal view.|Protocol: Amyloidosis|
+|2|I have a male patient diagnosed with amyloidosis 6 years ago. He had a color flow Doppler done 3 years ago showcasing mitral regurgitation at Stage 2. His most recent color flow Doppler from 3 months ago showcases that the mitral regurgitation has progressed to Stage 3. Is a comprehensive regurgitation assessment necessary?|No. A comprehensive regurgitation assessment is not necessary since the regurgitation has not progressed by greater than or equal to two stages.|Protocol: Amyloidosis|
+|3|A 65 year old male patient is presenting for follow-up for a thoracic aortic aneurysm. The patient's Color Flow Imaging (CFI) demonstrates a regurgitation of 43%. What is the next step to work-up this patient?|This patient should receive a comprehensive aortic regurgitation assessment as their regurgitation fraction puts them at moderate severity aortic regurgitation.|Protocol: Aorta Follow-Up|
+|4|In a patient who presents for follow-up imaging for aortic aneurysm, what metric should be measured in the apical view on Doppler imaging?|The metric that should be measured is left ventricular outflow tract velocity-time integral (LVOT-VTI).|Protocol: Aorta Follow-Up|
+|5|A 67 year old female patient presents for follow-up for a thoracic aortic aneurysm. What imaging modalities should be done for quantification of the severity of her disease?|The patient should receive a 2D Limited TTE with Color Flow and Doppler.|Protocol: Aorta Follow-Up|
+|6|A patient comes to the clinic for follow-up echo imaging for an ASD closure from 5 months prior. What imaging modalities should be obtained?|The patient should receive 2-D limited, Color Flow Doppler, Doppler, and Tissue Doppler Imaging in Parasternal, Apical, and Subcostal views.|Protocol: Post ASD Device Closure|
+|7|A patient who had an atrial septal defect (ASD) closure yesterday presents for echo follow-up imaging. In addition to device location, what else should be checked on imaging?|The patient should be checked for pericardial effusion.|Protocol: Post ASD Device Closure|
+|8|A patient who had an atrial septal defect (ASD) closure performed 4 months ago presents for follow-up echo and shunt study. In which order should valsalva and rest images be acquired for the shunt study?|The Valsalva images should be obtained before the rest images.|Protocol: Post ASD Device Closure|
+|9|A 74 year old male patient presents to the clinic for pacemaker optimization. At what V-V delay (LV-RV offset) should you start measurements?|You should start V-V delay measurements from 0 (12) ms.|Protocol: Pacemaker AV Optimization|
+|10|A 56 year old female patient presents to the clinic for pacemaker optimization. When performing the Doppler echo, what should be measured in the parasternal view?|LVOT diameter should be measured.|Protocol: Pacemaker AV Optimization|
+
+---
+

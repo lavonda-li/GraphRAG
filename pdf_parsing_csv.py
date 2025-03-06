@@ -9,6 +9,7 @@ from openai.types.beta.threads.message_create_params import (
 # 1. Define your data folder and prompt
 DATA_FOLDER = "fulldata"
 PROMPT = (
+    "You are an expert PDF parsing assistant."
     "Read the PDF, extract/parse key insights from the given PDF content. "
     "Summarize the main topics, tables (if any), and extracted text from images (if any), you don't need to mention tables/images if none present. Don't ask me any questions, just summarize the content."
 )
