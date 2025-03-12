@@ -1,5 +1,4 @@
 import asyncio
-import nest_asyncio
 
 from typing import Any, List, Callable, Optional, Union, Dict
 
@@ -21,7 +20,7 @@ from llama_index.core.prompts.default_prompts import (
 from llama_index.core.schema import TransformComponent, BaseNode
 from llama_index.core.bridge.pydantic import BaseModel, Field
 
-nest_asyncio.apply()
+
 
 
 class GraphRAGExtractor(TransformComponent):

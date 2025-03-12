@@ -74,8 +74,9 @@ if __name__ == "__main__":
 
     # Step 4
     print("Step 4: Initialize LLM")
-    os.environ["OPENAI_API_KEY"] = "your_openai_api_key"
-    llm = OpenAI(model="gpt-4")
+    OpenAI.api_key = os.getenv("OPENAI_API_KEY")
+    print(OpenAI.api_key)
+    llm = OpenAI(model="gpt-4o")
 
     entity_pattern = r'entity_name:\s*(.+?)\s*entity_type:\s*(.+?)\s*entity_description:\s*(.+?)\s*'
     relationship_pattern = r'source_entity:\s*(.+?)\s*target_entity:\s*(.+?)\s*relation:\s*(.+?)\s*relationship_description:\s*(.+?)\s*'
@@ -95,6 +96,7 @@ if __name__ == "__main__":
         property_graph_store=GraphRAGStore(),
         kg_extractors=[kg_extractor],
         show_progress=True,
+        embed_model="text-embedding-3-small"
     )
 
     # Step 6
