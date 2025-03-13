@@ -33,9 +33,7 @@ def load_patient_summaries(patient_csv_path):
 # 2. VOYAGE CLIENT
 ########################################################
 
-vo = voyageai.Client(
-    api_key="YOUR_API_KEY"  # or rely on environment variable
-)
+vo = voyageai.Client()
 
 ########################################################
 # 3. EMBEDDING FUNCTIONS
@@ -148,8 +146,8 @@ def main(graphml_json_path, embedding_csv_path, patient_csv_path):
         print(informative_summary)
 
 if __name__ == "__main__":
-    graphml_json_path = "path_to_graphml.json"
-    embedding_csv_path = "path_to_embedding.csv"
-    patient_csv_path = "path_to_patient_summaries.csv"
+    graphml_json_path = "data/magi_knowledge_graph_20250312_221629.graphml.json"
+    embedding_csv_path = "data/entities.csv"
+    patient_csv_path = "data/RAG_test_input.csv"
 
     main(graphml_json_path, embedding_csv_path, patient_csv_path)

@@ -1,0 +1,248 @@
+============================================
+Patient Summary: There is no family history of premature coronary artery disease 
+
+Relevant Knowledge Base Context:
+- Mepivacaine (Carbocaine®, Polocaine®) allergy: Mepivacaine (Carbocaine®, Polocaine®) allergy: a condition where the patient has an allergic reaction to Mepivacaine, which is also marketed as Carbocaine® or Polocaine®.
+- Death: A severe adverse outcome resulting in mortality.
+- Etidocaine (Duranest®) allergy: Etidocaine (Duranest®) allergy: a condition where the patient demonstrates an allergic reaction to Etidocaine, marketed as Duranest®.
+- Lidocaine (Xylocaine®) allergy: Lidocaine (Xylocaine®) allergy: a condition in which the patient exhibits an allergic reaction to Lidocaine, commercially known as Xylocaine®.
+- Dibucaine (Nupercainal®) allergy: Dibucaine (Nupercainal®) allergy: a condition where the patient is allergic to Dibucaine, commercially known as Nupercainal®.
+
+============================================
+Patient Summary: intervention for infective endocarditis.
+
+intervention for infective endocarditis, ultimately transitioned 
+
+Atrial Fibrillation
+
+Relevant Knowledge Base Context:
+- V. Jones, Dr. Geske, Dr. Newman, and Dr. Ommen: V. Jones, Dr. Geske, Dr. Newman, and Dr. Ommen are the clinicians credited with revising or contributing to the HCM MAVACAMTEN Protocol.
+- Heart transplant evaluation: Heart transplant evaluation: the comprehensive assessment process for patients who have received a heart transplant.
+- Amyloidosis Protocol: The standardized procedure protocol designed for the evaluation and diagnosis of amyloidosis, particularly in the heart.
+- AVR/Clinical TAVR Procedure: AVR/Clinical TAVR Procedure is a specific echocardiographic protocol for patients undergoing Aortic Valve Replacement or Transcatheter Aortic Valve Replacement.
+- AVR Patient: AVR Patient is a patient who has undergone Aortic Valve Replacement, which may render AS studies inapplicable.
+
+============================================
+Patient Summary: # Atrial fibrillation: Paroxysmal since MICU admission last 
+
+Exacerbation, COPD exacerbation, Atrial fibrillation, 
+
+heart rate called atrial fibrillation. You recieved lasix 
+
+___ irregular heart rate called atrial fibrillation puts you at 
+
+Relevant Knowledge Base Context:
+- multiple transducer positions (apical, suprasternal, right supraclavicular, right parasternal): Different anatomical windows used in echocardiography to accurately capture systolic velocity in the context of aortic stenosis.
+- The Echo Manual (4th ed.): The Echo Manual (4th ed.), a comprehensive reference on echocardiography authored by experts including Oh J.K., which details imaging techniques and protocols.
+- Previous Full Echocardiogram: A Previous Full Echocardiogram is a comprehensive cardiac ultrasound study that has been performed in the past and includes complete evaluations such as LV volumes and strain imaging.
+- echocardiography practice: The clinical procedures and measurements carried out during echocardiographic examinations.
+- Echo contrast with low MI imaging: An imaging technique that utilizes echo contrast with a low Mechanical Index (0.1–0.3) to enhance tissue and flow differentiation.
+
+============================================
+Patient Summary: had an abdominal aortic aneurysm. Father, lung cancer (smoker), 
+
+Relevant Knowledge Base Context:
+- Perflutren Lipid Microsphere (Definity®) Contraindication: Perflutren Lipid Microsphere (Definity®) Contraindication refers to the condition where the use of Definity® is not permitted.
+- Death: A severe adverse outcome resulting in mortality.
+- Mepivacaine (Carbocaine®, Polocaine®) allergy: Mepivacaine (Carbocaine®, Polocaine®) allergy: a condition where the patient has an allergic reaction to Mepivacaine, which is also marketed as Carbocaine® or Polocaine®.
+- Pediatric cardiologist: The pediatric cardiologist responsible for performing and interpreting the intra-operative transesophageal echocardiogram.
+- informed consent: The authorization given by patients or their families regarding the transesophageal echocardiogram procedure, including discussion of goals, risks, and alternatives.
+
+============================================
+Patient Summary: H/o atrial fibrillation in the setting of stress (___) not well seen. There is no aortic valve stenosis. There is no
+
+Relevant Knowledge Base Context:
+- Death: A severe adverse outcome resulting in mortality.
+- Routine yearly follow-up: Routine yearly follow-up: a scheduled annual medical evaluation designed to monitor the health and function of a transplanted heart.
+- Heart transplant evaluation: Heart transplant evaluation: the comprehensive assessment process for patients who have received a heart transplant.
+- 3D TEE left ventricular view: 3D TEE left ventricular view, a three-dimensional transesophageal echocardiographic imaging modality used to visualize cardiac structures from the left ventricular perspective.
+- Previous Full Echocardiogram: A Previous Full Echocardiogram is a comprehensive cardiac ultrasound study that has been performed in the past and includes complete evaluations such as LV volumes and strain imaging.
+
+============================================
+Patient Summary: Family History: No premature coronary artery disease
+
+thickened/deformed. There is severe aortic valve stenosis (valve 
+
+Relevant Knowledge Base Context:
+- CHF Systolic: CHF Systolic is a form of congestive heart failure characterized by reduced systolic function of the heart.
+- Patient under 18 years: Patient under 18 years refers to any individual younger than 18 years who is undergoing the ultrasound enhancement agent protocol.
+- Heart transplant evaluation: Heart transplant evaluation: the comprehensive assessment process for patients who have received a heart transplant.
+- Dr. Kane: Dr. Kane is a named physician serving as a supervising echo consultant involved in ordering alternate ultrasound enhancement agents.
+- Mayo Clinic: Mayo Clinic, a renowned healthcare institution known for its diagnostic protocols, particularly using echocardiography.
+
+============================================
+Patient Summary: Indication: Congestive heart failure. Coronary artery disease. 
+
+check INR ___. Goal INR ___ for atrial fibrillation. 
+
+Relevant Knowledge Base Context:
+- CHF Systolic: CHF Systolic is a form of congestive heart failure characterized by reduced systolic function of the heart.
+- Death: A severe adverse outcome resulting in mortality.
+- LVAD Implantation (LVAD procedure): Procedure for implanting a Left Ventricular Assist Device in patients with advanced heart failure.
+- Unfavorable Outcomes in VA ECMO: Unfavorable outcomes in VA ECMO imply a higher risk or poor prognosis for patients receiving veno-arterial extracorporeal membrane oxygenation support.
+- Previous Full Echocardiogram: A Previous Full Echocardiogram is a comprehensive cardiac ultrasound study that has been performed in the past and includes complete evaluations such as LV volumes and strain imaging.
+
+============================================
+Patient Summary: There is no aortic valve stenosis. No aortic regurgitation is 
+
+Relevant Knowledge Base Context:
+- Mepivacaine (Carbocaine®, Polocaine®) allergy: Mepivacaine (Carbocaine®, Polocaine®) allergy: a condition where the patient has an allergic reaction to Mepivacaine, which is also marketed as Carbocaine® or Polocaine®.
+- Death: A severe adverse outcome resulting in mortality.
+- Patient Prognosis and Management: Patient Prognosis and Management refers to the process of determining patient outcomes and guiding subsequent clinical decisions in a healthcare setting.
+- CHF Systolic: CHF Systolic is a form of congestive heart failure characterized by reduced systolic function of the heart.
+- Prilocaine (Citanest®) allergy: Prilocaine (Citanest®) allergy: a condition where the patient has an allergic reaction to Prilocaine, known by the trade name Citanest®.
+
+============================================
+Patient Summary: 1. Three vessel coronary artery disease with 2 patent grafts.
+
+1. Coronary artery disease/NSTEMI
+
+Relevant Knowledge Base Context:
+- Martineau, M./Dr. Chen: Martineau, M./Dr. Chen are the individuals responsible for revising the heart transplant protocol document.
+- M. Martineau / J. Thaden: M. Martineau and J. Thaden are the individuals associated with the method for performing 3D RV volume measurements as noted in the protocol.
+- V. Jones, Dr. Geske, Dr. Newman, and Dr. Ommen: V. Jones, Dr. Geske, Dr. Newman, and Dr. Ommen are the clinicians credited with revising or contributing to the HCM MAVACAMTEN Protocol.
+- Routine yearly follow-up: Routine yearly follow-up: a scheduled annual medical evaluation designed to monitor the health and function of a transplanted heart.
+- Mepivacaine (Carbocaine®, Polocaine®) allergy: Mepivacaine (Carbocaine®, Polocaine®) allergy: a condition where the patient has an allergic reaction to Mepivacaine, which is also marketed as Carbocaine® or Polocaine®.
+
+============================================
+Patient Summary: Atrial fibrillation with rapid ventricular response
+
+Relevant Knowledge Base Context:
+- Pulmonary Hypertension (PHTN): Pulmonary Hypertension (PHTN) is a condition characterized by elevated blood pressure in the pulmonary arteries, identified as a cardiac manifestation in sarcoidosis.
+- Death: A severe adverse outcome resulting in mortality.
+- Pulmonary Artery (suture line): Pulmonary Artery (suture line): the location on the pulmonary artery marked by a surgical suture line relevant in heart transplant assessments.
+- Mayo Clinic Echo Lab Website: Mayo Clinic Echo Lab Website is a web resource from Mayo Clinic that provides echocardiography and related clinical information.
+- Hepatopulmonary Syndrome: Hepatopulmonary Syndrome is a complication of liver disease characterized by abnormal oxygenation due to intrapulmonary vascular dilatations.
+
+============================================
+Patient Summary: aortic valve stenosis. Mild (1+) aortic regurgitation is seen. 
+
+Coronary Artery Disease
+
+Relevant Knowledge Base Context:
+- Mepivacaine (Carbocaine®, Polocaine®) allergy: Mepivacaine (Carbocaine®, Polocaine®) allergy: a condition where the patient has an allergic reaction to Mepivacaine, which is also marketed as Carbocaine® or Polocaine®.
+- Etidocaine (Duranest®) allergy: Etidocaine (Duranest®) allergy: a condition where the patient demonstrates an allergic reaction to Etidocaine, marketed as Duranest®.
+- Prior Transfusion Reaction: A documented history of a reaction to a transfusion of blood, blood products, or albumin experienced by the patient.
+- Death: A severe adverse outcome resulting in mortality.
+- Routine yearly follow-up: Routine yearly follow-up: a scheduled annual medical evaluation designed to monitor the health and function of a transplanted heart.
+
+============================================
+Patient Summary: Coronary artery disease (50% left anterior descending  
+
+#Coronary artery disease
+
+Relevant Knowledge Base Context:
+- Cardiac Rhythm Disorders: Cardiac Rhythm Disorders refer to abnormalities in the heart's electrical conduction system, included as a possible manifestation of sarcoidosis.
+- Echo-induced ventricular arrhythmia: Echo-induced ventricular arrhythmia refers to abnormal heart rhythms triggered by echocardiographic imaging in patients with the WiSEᵀᴹ CRT System.
+- Heart rate measurement: The process of determining the number of heart beats per minute.
+- Left Ventricular Aneurysms: Left Ventricular Aneurysms are localized dilations of the left ventricular wall and are noted as a potential manifestation in sarcoidosis.
+- Pericardial Constriction: Pericardial constriction is a condition characterized by restricted cardiac motion due to scarring of the pericardium.
+
+============================================
+Patient Summary: # Coronary artery disease, s/p MI ___ PCI w/ DES x1  
+
+# Atrial fibrillation: 
+
+Patient found to have new diagnosis of atrial fibrillation on 
+
+- The patient was started on Apixiban for atrial fibrillation 
+
+atrial fibrillation
+
+mellitus, glaucoma, coronary artery disease, hypertension, 
+
+Relevant Knowledge Base Context:
+- CHF Systolic: CHF Systolic is a form of congestive heart failure characterized by reduced systolic function of the heart.
+- VA ECMO Wean Protocol: A standardized procedure for weaning patients off venoarterial extracorporeal membrane oxygenation (VA ECMO).
+- Dr. M. Grogan: Dr. M. Grogan, a consultant involved in the echocardiographic evaluation as mentioned in the protocol.
+- End Ventricular Systole: The phase of the cardiac cycle when the ventricles have contracted and measurements are taken.
+- Unfavorable Outcomes in VA ECMO: Unfavorable outcomes in VA ECMO imply a higher risk or poor prognosis for patients receiving veno-arterial extracorporeal membrane oxygenation support.
+
+============================================
+Patient Summary: OSA (on CPAP), persistent atrial fibrillation on apixaban, MR,
+
+ATRIAL FIBRILLATION                                             
+
+hypertension, DM, OSA on CPAP, persistent atrial fibrillation on 
+
+hemorrhagic stroke, given her history of atrial fibrillation, 
+
+#Atrial Fibrillation with successful electrical cardioversion 
+
+atrial fibrillation 
+
+Relevant Knowledge Base Context:
+- echocardiography practice: The clinical procedures and measurements carried out during echocardiographic examinations.
+- multiple transducer positions (apical, suprasternal, right supraclavicular, right parasternal): Different anatomical windows used in echocardiography to accurately capture systolic velocity in the context of aortic stenosis.
+- LVID: Measurement of the left ventricular internal dimension in diastole/systole.
+- Patient and/or family: Patients and their family members involved in the congenital transesophageal echocardiography procedure.
+- CHF Systolic: CHF Systolic is a form of congestive heart failure characterized by reduced systolic function of the heart.
+
+============================================
+Patient Summary: Atrial fibrillation/flutter newly diagnosed within the past 
+
+Relevant Knowledge Base Context:
+- Airway Patency Assessment: Evaluation of the openness and function of the airway during breathing.
+- Death: A severe adverse outcome resulting in mortality.
+- Airway assessment: Airway assessment is the evaluation of a patient's airway to ensure it is clear and patent prior to sedation.
+- M. Martineau / J. Thaden: M. Martineau and J. Thaden are the individuals associated with the method for performing 3D RV volume measurements as noted in the protocol.
+- Unfavorable Outcomes in VA ECMO: Unfavorable outcomes in VA ECMO imply a higher risk or poor prognosis for patients receiving veno-arterial extracorporeal membrane oxygenation support.
+
+============================================
+Patient Summary: is no aortic valve stenosis. There is no aortic regurgitation. 
+
+Relevant Knowledge Base Context:
+- Mepivacaine (Carbocaine®, Polocaine®) allergy: Mepivacaine (Carbocaine®, Polocaine®) allergy: a condition where the patient has an allergic reaction to Mepivacaine, which is also marketed as Carbocaine® or Polocaine®.
+- Death: A severe adverse outcome resulting in mortality.
+- Patient Prognosis and Management: Patient Prognosis and Management refers to the process of determining patient outcomes and guiding subsequent clinical decisions in a healthcare setting.
+- CHF Systolic: CHF Systolic is a form of congestive heart failure characterized by reduced systolic function of the heart.
+- Adult Protocol Reference Document: Adult Protocol Reference Document is the inpatient/outpatient/hospital-based outpatient protocol for ultrasound enhancement agent administration as provided in the document.
+
+============================================
+Patient Summary: Coronary artery disease/peripheral vascular disease
+
+Relevant Knowledge Base Context:
+- M. Martineau / J. Thaden: M. Martineau and J. Thaden are the individuals associated with the method for performing 3D RV volume measurements as noted in the protocol.
+- Dr. M. Grogan: Dr. M. Grogan, a consultant involved in the echocardiographic evaluation as mentioned in the protocol.
+- Martineau, M./Dr. Chen: Martineau, M./Dr. Chen are the individuals responsible for revising the heart transplant protocol document.
+- presence of an echo consultant and a VAD team provider: The presence of an echo consultant and a VAD team provider (NP, PA, MD) is mandated as a safety and accuracy measure during pump speed changes in echo procedures.
+- Mepivacaine (Carbocaine®, Polocaine®) allergy: Mepivacaine (Carbocaine®, Polocaine®) allergy: a condition where the patient has an allergic reaction to Mepivacaine, which is also marketed as Carbocaine® or Polocaine®.
+
+============================================
+Patient Summary: Warfarin 7.5 mg PO 3X/WEEK (___) atrial fibrillation 
+
+Relevant Knowledge Base Context:
+- Post-pericardiocentesis patients: Post-pericardiocentesis patients are individuals who have undergone the pericardiocentesis procedure for draining pericardial fluid.
+- Patient and/or family: Patients and their family members involved in the congenital transesophageal echocardiography procedure.
+- Pacemaker nurse: Pacemaker nurse, a specialized nurse involved in pacemaker optimization procedures with provided contact numbers for immediate assistance.
+- Heart transplant evaluation: Heart transplant evaluation: the comprehensive assessment process for patients who have received a heart transplant.
+- Recent Echocardiogram: A Recent Echocardiogram refers to a cardiac ultrasound study conducted less than 6 months ago.
+
+============================================
+Patient Summary: __ year old female PMHx persistent atrial fibrillation on 
+
+demonstrated non obstructive coronary artery disease. The LMCA 
+
+1. Non-obstructive vessel coronary artery disease. 
+
+# Paroxysmal Atrial fibrillation: Remained in sinus for most of 
+
+Atrial fibrillation on coumadin  
+
+Relevant Knowledge Base Context:
+- IAC Standards and Guidelines updates: IAC Standards and Guidelines updates refer to the revisions derived from IAC-Echocardiography Standards that have been integrated into the ASE Guidelines.
+- Mayo Clinic Echo Lab Website: Mayo Clinic Echo Lab Website is a web resource from Mayo Clinic that provides echocardiography and related clinical information.
+- Dr. M. Grogan: Dr. M. Grogan, a consultant involved in the echocardiographic evaluation as mentioned in the protocol.
+- Gonda 6 Echocardiography Laboratory: A specialized facility dedicated to performing echocardiographic procedures, including contrast studies.
+- ASE Guidelines: Clinical guidelines established by the American Society of Echocardiography for standardized echocardiographic practices.
+
+============================================
+Patient Summary: paroxysmal atrial fibrillation (on warfarin), CKD IV and type II 
+
+Relevant Knowledge Base Context:
+- Dr. M. Grogan: Dr. M. Grogan, a consultant involved in the echocardiographic evaluation as mentioned in the protocol.
+- Inadequate Transthoracic Echocardiography: Inadequate Transthoracic Echocardiography refers to a condition where conventional external echo imaging fails to provide sufficient diagnostic quality.
+- Doppler Signal Enhancement: Doppler Signal Enhancement refers to the improvement in quality and detectability of Doppler ultrasound signals.
+- IAC Standards and Guidelines updates: IAC Standards and Guidelines updates refer to the revisions derived from IAC-Echocardiography Standards that have been integrated into the ASE Guidelines.
+- Recent Echocardiogram: A Recent Echocardiogram refers to a cardiac ultrasound study conducted less than 6 months ago.
+
