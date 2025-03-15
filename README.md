@@ -1,7 +1,3 @@
-Below is a sample **README** that you can adapt for your GitHub repo. It summarizes the project’s purpose, setup, and usage, while highlighting the key ideas from the accompanying report.
-
----
-
 # GraphRAG for Patient Background Briefing in Echocardiography
 
 This repository provides a novel **Retrieval-Augmented Generation (RAG)** pipeline enhanced by a **domain-specific knowledge graph**, referred to as **GraphRAG**. It is designed to generate concise and accurate patient background briefings to support **echocardiography** workflows.
