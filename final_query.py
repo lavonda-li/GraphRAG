@@ -191,9 +191,57 @@ def main_with_briefing(graphml_json_path, embedding_csv_path, patient_csv_path):
         print("============================================")
         print(final_briefing)
 
+
+########################################################
+# 9. ZERO-SHOT LEARNING
+########################################################
+
+def compile_patient_briefing_zero_shot(discharge_note: str) -> str:
+    """
+    Use the OpenAI API in a zero-shot setting to compile a patient briefing from the discharge note only.
+    The briefing will answer:
+    1. Brief patient medical history/background
+    2. Indication for echocardiography study/clinical question to answer
+    3. Prior echocardiography study (yes/no; if yes, when)
+    4. What should be focused on in the current study
+    """
+    prompt = f"""
+You are a medical expert. Using the following discharge note, compile a detailed patient briefing that includes answers to the following questions:
+1. Brief patient medical history/background:
+2. Indication for echocardiography study/clinical question to answer:
+3. Prior echocardiography study (yes/no; if yes, when):
+4. What should be focused on in the current study:
+
+Discharge Note:
+{discharge_note}
+
+Please structure your response clearly with headings for each question.
+    """
+    response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[
+            {"role": "system", "content": "You are a helpful and knowledgeable medical assistant."},
+            {"role": "user", "content": prompt}
+        ],
+        temperature=0.2
+    )
+    briefing = response.choices[0].message.content.strip()
+    return briefing
+
+def zero_shot_main(patient_csv_path):
+    patient_summaries = load_patient_summaries(patient_csv_path)
+    
+    for patient_summary in patient_summaries:
+        # Generate the patient briefing using the zero-shot setting
+        final_briefing = compile_patient_briefing_zero_shot(patient_summary)
+        print("============================================")
+        print(final_briefing)
+########################################################
+
 if __name__ == "__main__":
     graphml_json_path = "data/magi_knowledge_graph_20250312_221629.graphml.json"
     embedding_csv_path = "data/entities.csv"
     patient_csv_path = "data/RAG_test_input.csv"
 
-    main_with_briefing(graphml_json_path, embedding_csv_path, patient_csv_path)
+    # main_with_briefing(graphml_json_path, embedding_csv_path, patient_csv_path)
+    zero_shot_main(patient_csv_path)
