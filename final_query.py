@@ -34,7 +34,9 @@ def load_embeddings(embedding_csv_path):
 
 def load_patient_summaries(patient_csv_path):
     df = pd.read_csv(patient_csv_path)
-    return df["summary"]
+    df = df.head(50)  # Only keep the first 50 rows
+    return df["summary"]  
+
 
 ########################################################
 # 2. VOYAGE CLIENT
@@ -166,30 +168,40 @@ Please structure your response clearly with headings for each question.
     return briefing
 
 ########################################################
-# 8. MAIN WITH PATIENT BRIEFING
+# 8. GRAPHRAG WITH PATIENT BRIEFING
 ########################################################
 
-def main_with_briefing(graphml_json_path, embedding_csv_path, patient_csv_path):
+def graphrag_briefing(graphml_json_path, embedding_csv_path, patient_csv_path):
     node_labels = load_graph_json(graphml_json_path)
     knowledge_df = load_embeddings(embedding_csv_path)
     knowledge_embeddings = knowledge_df["embedding"]
     patient_summaries = load_patient_summaries(patient_csv_path)
 
-    for patient_summary in patient_summaries:
-        # Use each patient summary as the discharge note input
-        intersected_matches = query_embeddings_and_graph(
-            patient_query=patient_summary,
-            knowledge_embeddings=knowledge_embeddings,
-            knowledge_df=knowledge_df,
-            node_labels=node_labels,
-            top_n=5
-        )
-        retrieval_summary = generate_summary(patient_summary, intersected_matches)
+    # Ensure the outputs folder exists
+    os.makedirs("outputs", exist_ok=True)
 
-        # Generate the final patient briefing using the OpenAI API
-        final_briefing = compile_patient_briefing(patient_summary, retrieval_summary)
-        print("============================================")
-        print(final_briefing)
+    with open("outputs/graphrag_output.txt", "w") as f:
+        for patient_summary in patient_summaries:
+            # Use each patient summary as the discharge note input
+            intersected_matches = query_embeddings_and_graph(
+                patient_query=patient_summary,
+                knowledge_embeddings=knowledge_embeddings,
+                knowledge_df=knowledge_df,
+                node_labels=node_labels,
+                top_n=5
+            )
+            retrieval_summary = generate_summary(patient_summary, intersected_matches)
+
+            # Generate the final patient briefing using the OpenAI API
+            final_briefing = compile_patient_briefing(patient_summary, retrieval_summary)
+            
+            # Write the output to file
+            f.write("============================================\n")
+            f.write(final_briefing + "\n\n")
+            
+            # Optionally, still print to the console
+            print("============================================")
+            print(final_briefing)
 
 
 ########################################################
@@ -231,17 +243,19 @@ Please structure your response clearly with headings for each question.
 def zero_shot_main(patient_csv_path):
     patient_summaries = load_patient_summaries(patient_csv_path)
     
-    for patient_summary in patient_summaries:
-        # Generate the patient briefing using the zero-shot setting
-        final_briefing = compile_patient_briefing_zero_shot(patient_summary)
-        print("============================================")
-        print(final_briefing)
+    with open("outputs/zero_shot_output.txt", "w") as f:
+        for patient_summary in patient_summaries:
+            final_briefing = compile_patient_briefing_zero_shot(patient_summary)
+            f.write("============================================\n")
+            f.write(final_briefing + "\n")
+            f.write("\n")
+            print(final_briefing)  # Still prints to console
 ########################################################
 
 if __name__ == "__main__":
-    graphml_json_path = "data/magi_knowledge_graph_20250312_221629.graphml.json"
-    embedding_csv_path = "data/entities.csv"
-    patient_csv_path = "data/RAG_test_input.csv"
+    graphml_json_path = "RAG_data/magi_knowledge_graph_20250312_221629.graphml.json"
+    embedding_csv_path = "RAG_data/entities.csv"
+    patient_csv_path = "RAG_data/RAG_eval_data.csv"
 
-    # main_with_briefing(graphml_json_path, embedding_csv_path, patient_csv_path)
+    graphrag_briefing(graphml_json_path, embedding_csv_path, patient_csv_path)
     zero_shot_main(patient_csv_path)
